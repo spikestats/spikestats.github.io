@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## What is Spike Stats?
 
-You can use the [editor on GitHub](https://github.com/spikestats/spikestats.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Spike Stats for Valorant is a mobile application for iOS & Android that specializes on analyzing players’ performance statistics and displaying them in an easy to understand fashion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Performance Graphs
 
-### Markdown
+By utilizing the data in the API; Spike Stats draws beautiful graphs. It also interprets this data to create more insightful information in the form of performance averages and performance trends which quickly reveals if the player is getting better at playing the game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Image of Main Screen 1](screenshots/framed_1.png){:height=49%" width="49%"}](screenshots/framed_1.png)
+[![Image of Main Screen 2](screenshots/framed_2.png){:height=49%" width="49%"}](screenshots/framed_2.png)
 
-```markdown
-Syntax highlighted code block
+### Detailed Match Results
 
-# Header 1
-## Header 2
-### Header 3
+Spike Stats provides detailed information for each individual match the player has completed. This detailed information includes map info, medals the user has accumulated during the match, KDA info as well as their breakdown per weapon type, round details and many other data points which we think the player would benefit.
 
-- Bulleted
-- List
+[![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
+[![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
 
-1. Numbered
-2. List
+### Minimalistic UI
 
-**Bold** and _Italic_ and `Code` text
+Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues from it to recreate the look and feel of the game while adding some characteristic elements of its own.
 
-[Link](url) and ![Image](src)
-```
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/QWg4vfqczVI' frameborder='0' allowfullscreen></iframe></div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br/>
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spikestats/spikestats.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[E-mail](mailto:crocusgames@gmail.com)
