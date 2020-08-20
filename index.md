@@ -4,14 +4,14 @@ Spike Stats for Valorant is a mobile application for iOS & Android that speciali
 
 ### Performance Graphs
 
-By utilizing the data in the API; Spike Stats draws beautiful graphs. It also interprets this data to create more insightful information in the form of performance averages and performance trends which quickly reveals if the player is getting better at playing the game.
+Spike Stats allows players to see their own profile, match history and statistics. It utilizes and interprets the data in the API to create insightful new information such as performance averages and trends. This data is then displayed to the player in the form of beautiful graphs that are simple to digest.
 
 [![Image of Main Screen 1](screenshots/framed_1.png){:height=49%" width="49%"}](screenshots/framed_1.png)
 [![Image of Main Screen 2](screenshots/framed_2.png){:height=49%" width="49%"}](screenshots/framed_2.png)
 
 ### Detailed Match Results
 
-Spike Stats provides detailed information for each individual match the player has completed. This detailed information includes map info, medals the user has accumulated during the match, KDA info as well as their breakdown per weapon type, round details and many other data points which we think the player would benefit.
+Spike Stats also provides detailed information for each individual match the player has completed. This detailed information includes map info, medals the user has accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), round details and many other data points which we think the player would benefit.
 
 [![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
 [![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
