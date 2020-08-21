@@ -24,6 +24,15 @@ Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues
 
 <br/>
 
+### About Us
+
+We are a companion app development group that focuses on bringing high quality and game-enriching third party support to popular games such as Destiny 1 and Destiny 2.
+Our apps have been enjoyed more than 2 million players world wide. We always strive to increase the quality of our apps and bring new features.
+
+### Other Apps
+* The Vault: Item Manager iOS Android
+* Where is Xur? ios Android
+
 ### Contact
 
 [E-mail](mailto:crocusgames@gmail.com)
