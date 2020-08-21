@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Spike Stats
 description: iOS & Android Statistics App for Valorant
+github:
+  is_project_page: false
