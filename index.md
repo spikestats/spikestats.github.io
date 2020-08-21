@@ -30,7 +30,7 @@ We are a companion app development group that focuses on bringing high quality a
 
 Our apps have been enjoyed more than 2.5 million players world wide. We always strive to increase the quality of our apps and bring new features.
 
-#### Other Apps
+#### Our Other Apps
 * The Vault: Item Manager [iOS](https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en)
 * Where is Xur? [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
