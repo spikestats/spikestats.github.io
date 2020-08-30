@@ -49,9 +49,9 @@ Examples of Cookies we use:
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  -To personalize your experience (your information helps us to better respond to your individual needs)
-  -To improve our app (we continually strive to improve our app offerings based on the information and feedback we receive from you)
-  -To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+- To personalize your experience (your information helps us to better respond to your individual needs)
+- To improve our app (we continually strive to improve our app offerings based on the information and feedback we receive from you)
+- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
 ### How Long Do We Keep Your Information?
 
@@ -94,20 +94,20 @@ For the purpose of this Privacy Policy, we are a Data Controller of your persona
 
 If you are from the European Economic Area (EEA), our legal basis for collecting and using your personal information, as described in this Privacy Policy, depends on the information we collect and the specific context in which we collect it. We may process your personal information because:
 
-  - We need to perform a contract with you, such as when you use our services
-  - You have given us permission to do so
-  - The processing is in our legitimate interests and it's not overridden by your rights
-  - For payment processing purposes
-  - To comply with the law
+- We need to perform a contract with you, such as when you use our services
+- You have given us permission to do so
+- The processing is in our legitimate interests and it's not overridden by your rights
+- For payment processing purposes
+- To comply with the law
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. In certain circumstances, you have the following data protection rights:
 
-  - The right to access, update or to delete the personal information we have on you
-  - The right of rectification
-  - The right to object
-  - The right of restriction
-  - The right to data portability
-  - The right to withdraw consent
+- The right to access, update or to delete the personal information we have on you
+- The right of rectification
+- The right to object
+- The right of restriction
+- The right to data portability
+- The right to withdraw consent
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
@@ -119,10 +119,10 @@ The California Consumer Privacy Act (CCPA) requires us to disclose categories of
 
 We are also required to communicate information about rights California residents have under California law. You may exercise the following rights:
 
-  - Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
-  - Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
-  - Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
-  - Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+- Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
+- Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
+- Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
+- Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 We do not sell the Personal Information of our users.
@@ -132,4 +132,4 @@ For more information about these rights, please contact us.
 
 Don't hesitate to contact us if you have any questions.
 
- - Via Email: [crocusgames@gmail.com](crocusgames@gmail.com)
+- Via Email: [crocusgames@gmail.com](crocusgames@gmail.com)
