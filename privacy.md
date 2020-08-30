@@ -32,7 +32,7 @@ This Usage Data may include information such as your computer’s Internet Proto
 
 When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
-##### Tracking & Cookies Data
+#### Tracking & Cookies Data
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
 Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
@@ -41,115 +41,95 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
+- Session Cookies: We use Session Cookies to operate our Service.
+- Preference Cookies: We use Preference Cookies to remember your preferences and various settings.
+- Security Cookies: We use Security Cookies for security purposes.
 
-How Do We Use The Information We Collect?
+### How Do We Use The Information We Collect?
 
 Any of the information we collect from you may be used in one of the following ways:
 
   -To personalize your experience (your information helps us to better respond to your individual needs)
   -To improve our app (we continually strive to improve our app offerings based on the information and feedback we receive from you)
   -To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  -To process transactions
-  -To administer a contest, promotion, survey or other site feature
-  -To send periodic emails
 
-
-How Do We Use Your Email Address?
-
-By submitting your email address on this app, you agree to receive emails from us. You can cancel your participation in any of these email lists at any time by clicking on the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do. By submitting your email address, you also agree to allow us to use your email address for customer audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us. Email addresses submitted only through the order processing page will be used for the sole purpose of sending you information and updates pertaining to your order. If, however, you have provided the same email to us through another method, we may use it for any of the purposes stated in this Policy. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-How Long Do We Keep Your Information?
+### How Long Do We Keep Your Information?
 
 We keep your information only so long as we need it to provide Spike Stats to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
 
-How Do We Protect Your Information?
+### How Do We Protect Your Information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never kept on file. We cannot, however, ensure or warrant the absolute security of any information you transmit to Spike Stats or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.
 
-Governing Law
+### Governing Law
 
-The laws of TR, excluding its conflicts of law rules, shall govern this Agreement and your use of the app. Your use of the app may also be subject to other local, state, national, or international laws.
+The laws of USA, excluding its conflicts of law rules, shall govern this Agreement and your use of the app. Your use of the app may also be subject to other local, state, national, or international laws.
 
-Your Consent
+### Your Consent
 
 By using our site, registering an account, or making a purchase, you consent to this Privacy Policy.
 
-
-Links to Other Websites
+### Links to Other Websites
 
 Our service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Cookies
-
-Spike Stats uses "Cookies" to identify the areas of our app that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our app. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our app correctly or at all. We never place Personally Identifiable Information in Cookies.
-
-
-Kids' Privacy
+### Kids' Privacy
 
 We do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
-Changes To Our Privacy Policy
+### Changes To Our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-
-Third-Party Services
+### Third-Party Services
 
 We may display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services ("Third- Party Services").
 You acknowledge and agree that Spike Stats shall not be responsible for any Third-Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. Spike Stats does not assume and shall not have any liability or responsibility to you or any other person or entity for any Third-Party Services.
 Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own risk and subject to such third parties' terms and conditions.
 
-
-
-Information Regarding Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+### Information Regarding Your Data Protection Rights Under General Data Protection Regulation (GDPR)
 
 For the purpose of this Privacy Policy, we are a Data Controller of your personal information.
 
 If you are from the European Economic Area (EEA), our legal basis for collecting and using your personal information, as described in this Privacy Policy, depends on the information we collect and the specific context in which we collect it. We may process your personal information because:
 
-  -We need to perform a contract with you, such as when you use our services
-  -You have given us permission to do so
-  -The processing is in our legitimate interests and it's not overridden by your rights
-  -For payment processing purposes
-  -To comply with the law
-
+  - We need to perform a contract with you, such as when you use our services
+  - You have given us permission to do so
+  - The processing is in our legitimate interests and it's not overridden by your rights
+  - For payment processing purposes
+  - To comply with the law
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. In certain circumstances, you have the following data protection rights:
 
-  -The right to access, update or to delete the personal information we have on you
-  -The right of rectification
-  -The right to object
-  -The right of restriction
-  -The right to data portability
-  -The right to withdraw consent
-
+  - The right to access, update or to delete the personal information we have on you
+  - The right of rectification
+  - The right to object
+  - The right of restriction
+  - The right to data portability
+  - The right to withdraw consent
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
 You have the right to complain to a Data Protection Authority about our collection and use of your personal information. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
-California Residents
+### California Residents
 
 The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.
 
 We are also required to communicate information about rights California residents have under California law. You may exercise the following rights:
 
-  -Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
-  -Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
-  -Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
-  -Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+  - Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
+  - Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
+  - Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
+  - Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 We do not sell the Personal Information of our users.
 For more information about these rights, please contact us.
 
-Contact Us
+### Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
- -Via Email:  crocusgames@gmail.com
-
+ - Via Email: [crocusgames@gmail.com](crocusgames@gmail.com)
