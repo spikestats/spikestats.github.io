@@ -59,7 +59,7 @@ We keep your information only so long as we need it to provide Spike Stats to yo
 
 ### How Do We Protect Your Information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never kept on file. We cannot, however, ensure or warrant the absolute security of any information you transmit to Spike Stats or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. We cannot, however, ensure or warrant the absolute security of any information you transmit to Spike Stats or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.
 
 ### Governing Law
 
@@ -80,7 +80,7 @@ We do not address anyone under the age of 13. We do not knowingly collect person
 
 ### Changes To Our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date above.
 
 ### Third-Party Services
 
@@ -97,7 +97,6 @@ If you are from the European Economic Area (EEA), our legal basis for collecting
 - We need to perform a contract with you, such as when you use our services
 - You have given us permission to do so
 - The processing is in our legitimate interests and it's not overridden by your rights
-- For payment processing purposes
 - To comply with the law
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. In certain circumstances, you have the following data protection rights:
