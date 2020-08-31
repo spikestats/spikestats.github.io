@@ -9,7 +9,7 @@
         var username = document.location.search.substr(1);
         document.location.replace(
             "standalone" in window.navigator ?
-            'twitter:@'+username :              // iOS
+            'vault:':              // iOS
             'http://twitter.com/'+username);    // others
     </script>
 </body>
