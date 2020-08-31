@@ -131,4 +131,4 @@ For more information about these rights, please contact us.
 
 Don't hesitate to contact us if you have any questions.
 
-- Via Email: [crocusgames@gmail.com](crocusgames@gmail.com)
+- Via Email: [crocusgames@gmail.com](mailto:crocusgames@gmail.com)
