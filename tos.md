@@ -45,7 +45,7 @@ Spike Stats uses Cookies to personalize the Content that you see on our app. Mos
 
 You acknowledge and agree that Spike Stats may stop (permanently or temporarily) providing the Service (or any features within the Service) to you or to users generally at Spike Stats's sole discretion, without prior notice to you. You may stop using the Service at any time. You do not need to specifically inform Spike Stats when you stop using the Service. You acknowledge and agree that if Spike Stats disables access to your account, you may be prevented from accessing the Service, your account details or any files or other materials which is contained in your account.
 
-If we decide to change our Terms of Service, we will post those changes on this page, and/or update the Terms of Service modification date below.
+If we decide to change our Terms of Service, we will post those changes on this page, and/or update the Terms of Service modification date above.
 
 ### Modifications to Our app
 
@@ -71,8 +71,8 @@ Third-Party Services and links thereto are provided solely as a convenience to y
 
 This Agreement shall remain in effect until terminated by you or Spike Stats.
 Spike Stats may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
-This Agreement will terminate immediately, without prior notice from Spike Stats, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the app and all copies thereof from your computer.
-Upon termination of this Agreement, you shall cease all use of the app and delete all copies of the app from your computer.
+This Agreement will terminate immediately, without prior notice from Spike Stats, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the app and all copies thereof from your Device.
+Upon termination of this Agreement, you shall cease all use of the app and delete all copies of the app from your Device.
 Termination of this Agreement will not limit any of Spike Stats's rights or remedies at law or in equity in case of breach by you (during the term of this Agreement) of any of your obligations under the present Agreement.
 
 ### Indemnification
