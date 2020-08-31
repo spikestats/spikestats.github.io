@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html>
-    <head>
-    <title>iOS Automatic Deep Linking</title>
-    </head>
-    <body>
-        <iframe src="twitter://" width="0" height="0"></iframe>
-        <p>Website content.</p>
-    </body>
+<head>
+    <meta charset="utf-8">
+    <title>Twitter</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var username = document.location.search.substr(1);
+        document.location.replace(
+            "standalone" in window.navigator ?
+            'twitter:@'+username :              // iOS
+            'http://twitter.com/'+username);    // others
+    </script>
+</body>
 </html>
