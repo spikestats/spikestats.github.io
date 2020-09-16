@@ -1,6 +1,5 @@
 OAuth Login Page
 
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -12,7 +11,7 @@ OAuth Login Page
         document.location.replace(
             "standalone" in window.navigator ?
             'twitter:@'+username :              // iOS
-            'http://twitter.com/'+username);    // others
+            'spikestats://login);    // others
     </script>
 </body>
 </html>
