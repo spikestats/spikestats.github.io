@@ -10,7 +10,7 @@ OAuth Login Page
         var username = document.location.search.substr(1);
         document.location.replace(
             "standalone" in window.navigator ?
-            'twitter:@'+username :              // iOS
+            'spikestats://login :              // iOS
             'spikestats://login);    // others
     </script>
 </body>
