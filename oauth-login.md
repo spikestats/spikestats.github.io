@@ -7,11 +7,12 @@ OAuth Login Page
 </head>
 <body>
     <script type="text/javascript">
-        var username = document.location.search.substr(1);
-        document.location.replace(
-            "standalone" in window.navigator ?
-            'spikestats://login :              // iOS
-            'spikestats://login);    // others
+        var openApp = function() {
+            window.location.replace('spikestats://');
+        };
+        var triggerAppOpen = function() {
+          openApp();
+        };
     </script>
 </body>
 </html>
