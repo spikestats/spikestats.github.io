@@ -13,6 +13,7 @@ OAuth Login Page
         var triggerAppOpen = function() {
           openApp();
         };
+        triggerAppOpen();
     </script>
 </body>
 </html>
