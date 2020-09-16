@@ -1,14 +1,15 @@
-OAuth Login Page
+Launching Spike Stats
 
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Twitter</title>
+    <title>Spike Stats Login</title>
 </head>
 <body>
     <script type="text/javascript">
         var openApp = function() {
-            window.location.replace('spikestats://');
+            var url = window.location;
+            window.location.replace('spikestats://' + url);
         };
         var triggerAppOpen = function() {
           openApp();
