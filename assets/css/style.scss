@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+@font-face {
+    font-family: headerFont;
+    src: url(/valorant_font.ttf);
+}
+
+div {
+    font-family: headerFont;
+}
