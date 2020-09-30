@@ -8,8 +8,20 @@
     src: url(/fonts/valorant_regular_font.otf);
 }
 
+@font-face {
+    font-family: headerFont;
+    src: url(/fonts/valorant_header_font.ttf);
+}
+
 div {
     font-family: regularFont;
     font-size:16px;
 }
 
+h2, h3, h4, h5, h6 {
+    font-family: regularFont;
+}
+
+h1 {
+    font-family: headerFont;
+}
