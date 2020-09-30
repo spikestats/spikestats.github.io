@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 @font-face {
-    font-family: headerFont;
-    src: url(/valorant_font.ttf);
+    font-family: regularFont;
+    src: url(/fonts/valorant_regular_font.otf);
 }
 
 div {
