@@ -2,7 +2,7 @@
 
 Spike Stats for Valorant is a mobile application for iOS & Android that specializes on analyzing players’ performance statistics and displaying them in an easy to understand fashion.
 
-[![Image of Main Screen 5](screenshots/framed_5.png){:height=49%" width="49%"}](screenshots/framed_5.png)
+<p class="aligncenter">[![Image of Main Screen 5](screenshots/framed_5.png){:height=49%" width="49%"}](screenshots/framed_5.png)</p>
 
 ### Performance Graphs
 
