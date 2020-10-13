@@ -37,5 +37,5 @@ Our apps have been enjoyed more than 2.5 million players world wide. We always s
 * Where is Xur? [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
 #### Contact Us
-[Follow on Twitter](https://twitter.com/SpikeStats)
-[Send an E-mail](mailto:crocusgames@gmail.com)
+* [Follow on Twitter](https://twitter.com/SpikeStats)
+* [Send an E-mail](mailto:crocusgames@gmail.com)
