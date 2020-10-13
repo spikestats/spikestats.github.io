@@ -36,6 +36,6 @@ Our apps have been enjoyed more than 2.5 million players world wide. We always s
 * The Vault: Item Manager [iOS](https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en)
 * Where is Xur? [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
-#### Contact
-
-[E-mail](mailto:crocusgames@gmail.com)
+#### Contact Us
+[Follow on Twitter](https://twitter.com/SpikeStats)
+[Send an E-mail](mailto:crocusgames@gmail.com)
