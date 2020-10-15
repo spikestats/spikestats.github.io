@@ -27,7 +27,9 @@ Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues
 <br/>
 
 ### Download
-<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="30%" height="30%"/></a></p>
+
+Spike Stats is currently available on Google Play. iOS version is planned to be released in November 2020.
+<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="40%" height="40%"/></a></p>
 
 ### About Us
 
