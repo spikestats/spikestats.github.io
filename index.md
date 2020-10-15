@@ -1,5 +1,3 @@
-<p align="center"><a href="screenshots/framed_5.png"><img src="images/google-play-badge.png" width="49%" height="49%"/></a></p>
-
 ## What is Spike Stats?
 
 Spike Stats for Valorant is a mobile application for iOS & Android that specializes on analyzing players’ performance statistics and displaying them in an easy to understand fashion.
@@ -27,6 +25,9 @@ Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CZBPWTGV5Wc' frameborder='0' allowfullscreen></iframe></div>
 
 <br/>
+
+### Download
+<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="30%" height="30%"/></a></p>
 
 ### About Us
 
