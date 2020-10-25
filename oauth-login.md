@@ -1,4 +1,5 @@
-Launching Spike Stats
+
+<a href="spikestats://">Launching Spike Stats</a>
 
 <html>
 <head>
