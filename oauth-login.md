@@ -12,8 +12,8 @@ Launching Spike Stats
             window.location.replace('spikestats://' + url);
         };
         var openNewPage = function() {
-            var url = window.location.replace('spikestats://' + url);
-            window.open(url);
+            var url = window.location;
+            window.open('spikestats://' + url);
         }
         openNewPage();
     </script>
