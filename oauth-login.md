@@ -7,10 +7,6 @@ Launching Spike Stats
 </head>
 <body>
     <script type="text/javascript">
-        var openApp = function() {
-            var url = window.location;
-            window.location.replace('spikestats://' + url);
-        };
         var openNewPage = function() {
             var url = window.location;
             window.open('spikestats://' + url);
