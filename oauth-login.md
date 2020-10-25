@@ -11,7 +11,11 @@ Launching Spike Stats
             var url = window.location;
             window.location.replace('spikestats://' + url);
         };
-        openApp();
+        var openNewPage = function() {
+            var url = window.location.replace('spikestats://' + url);
+            window.open(url);
+        }
+        openNewPage();
     </script>
 </body>
 </html>
