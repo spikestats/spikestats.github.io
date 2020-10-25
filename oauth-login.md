@@ -7,6 +7,10 @@ Launching Spike Stats
 </head>
 <body>
     <script type="text/javascript">
+        
+        var isIOS = function() {
+        };
+        
         var openApp = function() {
             var url = window.location;
             window.location.replace('spikestats://' + url);
