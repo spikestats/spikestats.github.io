@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "D2357DHZNA.com.crocusgames.spikestats",
-                "paths": [ "*"]
+                "paths": [ "/oauth-login/"]
             }
         ]
     }
