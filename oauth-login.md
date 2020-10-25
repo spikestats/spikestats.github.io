@@ -25,7 +25,14 @@ Launching Spike Stats
             var url = window.location;
             window.location.replace('spikestats://' + url);
         };
+        
+        if (isIOS) {
+        } else {
         openApp();
+        }
+        
+        
+        
     </script>
 </body>
 </html>
