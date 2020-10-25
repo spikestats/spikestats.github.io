@@ -18,7 +18,7 @@ Launching Spike Stats
               ].includes(navigator.platform)
               // iPad on iOS 13 detection
               || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
-        }
+        };
         
         var openApp = function() {
             var url = window.location;
