@@ -9,6 +9,16 @@ Launching Spike Stats
     <script type="text/javascript">
         
         var isIOS = function() {
+                return [
+            'iPad Simulator',
+            'iPhone Simulator',
+            'iPod Simulator',
+            'iPad',
+            'iPhone',
+            'iPod'
+          ].includes(navigator.platform)
+          // iPad on iOS 13 detection
+          || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
         };
         
         var openApp = function() {
