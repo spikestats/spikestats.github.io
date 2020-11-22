@@ -1,4 +1,6 @@
-Launching Spike Stats
+Launching Spike Stats...
+
+If you see the "Open this page in "Spike Stats?" popup; please tap "Open".
 
 <html>
 <head>
