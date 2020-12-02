@@ -29,7 +29,7 @@ Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues
 ### Download
 
 Spike Stats is available on App Store and Google Play.
-<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" width="50%" height="50%"/></a></p>
+<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" width="49%" height="50%"/></a></p>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="50%" height="50%"/></a></p>
 
 ### About Us
