@@ -18,6 +18,15 @@ Spike Stats also provides detailed information for each individual match players
 [![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
 [![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
 
+### Agent & Weapon Stats
+
+Spike Stats tracks players’ performance for every agent and creates a list. It includes data such as win rate, KDA info for each agent the player selects. This list can also be sorted by the mentioned metrics and be filtered by agent roles.
+
+Spike Stats records players’ accuracy and effectiveness for every weapon and prepares a list. This list includes kills, kills per round, damage per round, shot percentages and other info for each weapon the player uses. It can also be sorted by the mentioned stats and filtered by weapon type.
+
+[![Image of Agent_Stats Screen](screenshots/framed_7.png){:height=49%" width="49%"}](screenshots/framed_7.png)
+[![Image of Weapon_Stats Screen](screenshots/framed_8.png){:height=49%" width="49%"}](screenshots/framed_8.png)
+
 ### Minimalistic UI
 
 Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues from it to recreate the look and feel of the game while adding some characteristic elements of its own.
