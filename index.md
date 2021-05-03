@@ -27,6 +27,15 @@ Spike Stats records players’ accuracy and effectiveness for every weapon and p
 [![Image of Agent_Stats Screen](screenshots/framed_7.png){:height=49%" width="49%"}](screenshots/framed_7.png)
 [![Image of Weapon_Stats Screen](screenshots/framed_8.png){:height=49%" width="49%"}](screenshots/framed_8.png)
 
+### Overview & Leaderboards
+
+Spike Stats creates a summary of players’ progress from their recent matches. This summary includes an overall win rate per game mode, win rate per map, win rate when the user starts the match as an attacker or defender, average performance metrics such as KDA and shot percentages.
+
+Spike Stats lists the leaderboards for current and previous acts of all regions.
+
+[![Image of Overview Screen](screenshots/framed_6.png){:height=49%" width="49%"}](screenshots/framed_6.png)
+[![Image of Leaderboard Screen](screenshots/framed_9.png){:height=49%" width="49%"}](screenshots/framed_9.png)
+
 ### Minimalistic UI
 
 Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues from it to recreate the look and feel of the game while adding some characteristic elements of its own.
