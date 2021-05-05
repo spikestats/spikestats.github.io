@@ -63,3 +63,5 @@ Our apps have been downloaded more than 2.5 million times worldwide. We always s
 #### Contact Us
 * [Follow on Twitter](https://twitter.com/SpikeStats)
 * [Send an E-mail](mailto:crocusgames@gmail.com)
+
+Spike Stats isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
