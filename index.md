@@ -46,7 +46,8 @@ Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues
 
 ### Is Spike Stats safe to use?
 Spike Stats uses <a href="https://www.riotgames.com/en/DevRel/rso">Riot Sign on (RSO);</a> the official authentication method of Riot Games that lets users sign in to the Riot Games website and other select third party applications. Spike Stats was reviewed and granted access to this feature by Riot Games.
-Spike Stats is also fully compliant with the <"https://www.riotgames.com/en/DevRel/valorant-api-launch?linkId=100000132045457">Valorant API policies.</a> It only uses the official Valorant API and does not collect or display any other data from unofficial sources. Therefore; Spike Stats is completely safe to use.
+<br/>
+Spike Stats is also fully compliant with the <a href="https://www.riotgames.com/en/DevRel/valorant-api-launch?linkId=100000132045457">Valorant API policies.</a> It only uses the official Valorant API and does not collect or display any other data from unofficial sources. Therefore; Spike Stats is completely safe to use.
 
 ### Download
 
