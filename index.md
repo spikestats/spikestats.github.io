@@ -42,8 +42,8 @@ Spike Stats lets you search for other Valorant players and see their stats effor
 
 Spike Stats is available in 6 languages at the moment: English, French, German, Portuguese, Spanish and Turkish. We are determined to support more languages in the future.
 
-[![Image of Player Search](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
-[![Image of Settings](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
+[![Image of Player Search Screen](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
+[![Image of Settings Screen](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
 
 ### Minimalistic UI
 
