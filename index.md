@@ -40,10 +40,6 @@ Spike Stats lists the leaderboards for current and previous acts of all regions.
 
 Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues from it to recreate the look and feel of the game while adding some characteristic elements of its own.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/MLfuaiLoeZk' frameborder='0' allowfullscreen></iframe></div>
-
-<br/>
-
 ### Is Spike Stats safe to use?
 Spike Stats uses <a href="https://www.riotgames.com/en/DevRel/rso">Riot Sign on (RSO);</a> the official authentication method of Riot Games that lets users sign in to the Riot Games website and other select third party applications. Spike Stats was reviewed and granted access to this feature by Riot Games.
 <br/>
