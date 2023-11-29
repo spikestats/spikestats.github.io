@@ -13,7 +13,7 @@ Spike Stats allows players to see their own profile, match history and statistic
 
 ### Detailed Match Results
 
-Spike Stats also provides detailed information for each individual match players has completed. This includes map info, names & number of medals accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), round details and many other data points which we think players would benefit.
+Spike Stats also provides detailed information for each individual match players has completed. This includes map info, names & number of medals accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), KAST, round details and many other data points which we think players would benefit.
 
 [![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
 [![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
@@ -29,12 +29,21 @@ Spike Stats records players’ accuracy and effectiveness for every weapon and p
 
 ### Overview & Leaderboards
 
-Spike Stats creates a summary of players’ progress from their recent matches. This summary includes an overall win rate per game mode, win rate per map, win rate when the user starts the match as an attacker or defender, average performance metrics such as KDA and shot percentages.
+Spike Stats creates a summary of players’ progress from their recent matches. This summary includes an overall win rate per game mode, win rate per map, win rate when the user starts the match as an attacker or defender, average performance metrics such as KDA, KAST and shot percentages.
 
 Spike Stats lists the leaderboards for current and previous acts of all regions.
 
 [![Image of Overview Screen](screenshots/framed_6.png){:height=49%" width="49%"}](screenshots/framed_6.png)
 [![Image of Leaderboard Screen](screenshots/framed_9.png){:height=49%" width="49%"}](screenshots/framed_9.png)
+
+### Player Search & Multilanguage Support
+
+Spike Stats lets you search for other Valorant players and see their stats effortlessly. All you need is the game name and tag line of the player and you are good to go.
+
+Spike Stats is available in 6 languages at the moment: English, French, German, Portuguese, Spanish and Turkish. We are determined to support more languages in the future.
+
+[![Image of Player Search](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
+[![Image of Settings](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
 
 ### Minimalistic UI
 
@@ -62,6 +71,7 @@ Our apps have been downloaded more than 2.5 million times worldwide. We always s
 * Where is Xur? [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
 #### Contact Us
+* [Join Official Spike Stats Discord Server](https://discord.gg/UEcuWArhny)
 * [Follow on Twitter](https://twitter.com/SpikeStats)
 * [Send an E-mail](mailto:crocusgames@gmail.com)
 
