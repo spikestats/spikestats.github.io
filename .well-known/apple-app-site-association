@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "D2357DHZNA.com.crocusgames.spikestats",
+                "paths": ["/oauth-login/", "/user/"]
+            }
+        ]
+    }
+}
