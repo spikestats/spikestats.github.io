@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Spike Stats
 description: Player Performance Tracking App for Valorant
+include: [".well-known"]
