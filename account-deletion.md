@@ -10,11 +10,13 @@
 
     <form action="https://fabform.io/f/mkFTAgP" method="post">
 
-        <label for="name">Riot ID (Examle: ValorantPlayer#EUW)</label>
-        <input type="text" id="name" name="name" required>
+        <label for="name">Your Riot ID (Example: ValorantPlayer#EUW)</label>
+        <br>
+        <input type="text" id="riotId" name="riotId" required>
         <br>
         <br>
         <label for="message">Message:</label>
+        <br>
         <textarea id="message" name="message"></textarea>
         <br>
         <br>
