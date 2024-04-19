@@ -6,13 +6,19 @@
 </head>
 <body>
     <h1>Spike Stats Account Deletion</h1>
-    <p>This is a simple static website.</p>
-
+    <p>Fill the form below to request your Spike Stats account to be deleted.</p>
+    <p>Requesting account deletion will permanently delete your:</p>
+    <p>> Spike Stats account and related data</p>
+    <p>For the Email field, enter the email address that you used to create your Where is Xur? account.\nYou can use the Message field to provide more info.\nThen, tap on Request Account
+        Deletion button to send your request.</p>
     <form action="https://fabform.io/f/mkFTAgP" method="post">
 
-        <label for="name">Your Riot ID (Example: ValorantPlayer#EUW)</label>
+        <label for="name">Riot ID (Example: ValorantPlayer#EUW)</label>
         <br>
         <input type="text" id="riotId" name="riotId" required>
+        <label for="name">Email Address</label>
+        <br>
+        <input type="text" id="email" name="email" required>
         <br>
         <br>
         <label for="message">Message:</label>
