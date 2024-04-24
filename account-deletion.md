@@ -12,6 +12,7 @@
     <p>Enter your contact email for the <b>Email</b> field.</p>
     <p>You can use the <b>Message</b> field to provide more info.</p>
     <p>Then, tap on <b>Request Account Deletion</b> button to send your request.</p>
+    <p>We will process your request in 7 days.</p>
     <form action="https://formspree.io/f/mzbnyobv" method="post">
         <label for="name">Riot ID:</label>
         <br>
