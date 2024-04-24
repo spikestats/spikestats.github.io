@@ -12,7 +12,7 @@
     <p>Enter your contact email for the <b>Email</b> field.</p>
     <p>You can use the <b>Message</b> field to provide more info.</p>
     <p>Then, tap on <b>Request Account Deletion</b> button to send your request.</p>
-    <form action="https://fabform.io/f/mkFTAgP" method="post">
+    <form action="https://formspree.io/f/mzbnyobv" method="post">
         <label for="name">Riot ID:</label>
         <br>
         <input type="text" id="riotId" name="riotId" required>
