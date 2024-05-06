@@ -9,7 +9,7 @@
     <p>Fill the form below to request your Spike Stats account to be deleted.</p>
     <p>Requesting account deletion will permanently delete your <b>Spike Stats account and related data.</b></p>
     <ul>
-        <li>For the <b>Riot ID</b> field, enter your Riot ID name such as ValorantPlayer#EUW.</li>
+        <li>For the <b>Riot ID</b> field, enter your Riot ID such as ValorantPlayer#EUW.</li>
         <li>Enter your contact email for the <b>Email</b> field.</li>
         <li>You can use the <b>Message</b> field to provide more info.</li>
         <li>Then, tap on <b>Request Account Deletion</b> button to send your request.</li>
