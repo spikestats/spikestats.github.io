@@ -16,7 +16,7 @@
     </ul>
     <p>We will process your request in 7 days.</p>
     <form action="https://formspree.io/f/mzbnyobv" method="post">
-        <label for="name">Riot ID:</label>
+        <label for="name">Riot ID: (e.g. ValorantPlayer#EUW)</label>
         <br>
         <input type="text" id="riotId" name="riotId" required>
         <br>
