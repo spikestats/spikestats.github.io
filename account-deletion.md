@@ -10,6 +10,7 @@
     <p>Requesting account deletion will permanently delete your <b>Spike Stats account and related data.</b></p>
     <ul>
         <li>For the <b>Riot ID</b> field, enter your Riot ID such as ValorantPlayer#EUW.</li>
+        <li><b>User ID</b> can be found be tapping and holding on the <b>"Delete"</b> button in the <b>Settings</b> page in Spike Stats. When you see the <b>"User Id copied."</b> message, return to this page and paste the value in the <b>User ID</b> field.</li>
         <li>Enter your contact email for the <b>Email</b> field.</li>
         <li>You can use the <b>Message</b> field to provide more info.</li>
         <li>Then, tap on <b>Request Account Deletion</b> button to send your request.</li>
@@ -19,6 +20,11 @@
         <label for="name">Riot ID: (e.g. ValorantPlayer#EUW)</label>
         <br>
         <input type="text" id="riotId" name="riotId" required>
+        <br>
+        <br>
+        <label for="name">User ID: (Tap and hold on the "Delete" button in the Settings page of Spike Stats for 2 seconds. After the on-screen message, copy the value in the field below.)</label>
+        <br>
+        <input type="text" id="userId" name="userId">
         <br>
         <br>
         <label for="name">Email:</label>
