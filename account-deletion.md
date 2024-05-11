@@ -17,22 +17,22 @@
     </ul>
     <p>We will process your request in 7 days. We may contact you via your provided email if more info is required.</p>
     <form action="https://formspree.io/f/mzbnyobv" method="post">
-        <label for="name">Riot ID: (e.g. ValorantPlayer#EUW)</label>
+        <label for="name"><u>Riot ID:</u> (e.g. ValorantPlayer#EUW)</label>
         <br>
         <input type="text" id="riotId" name="riotId" required>
         <br>
         <br>
-        <label for="name">User ID: (Tap and hold on the "Delete" button in the Settings page of Spike Stats for 2 seconds. After the on-screen message, copy the value in the field below.)</label>
+        <label for="name"><u>User ID:</u> (Tap and hold on the "Delete" button in the Settings page of Spike Stats for 2 seconds. After the on-screen message, copy the value in the field below.)</label>
         <br>
         <input type="text" id="userId" name="userId">
         <br>
         <br>
-        <label for="name">Email:</label>
+        <label for="name"><u>Email:</u></label>
         <br>
         <input type="text" id="email" name="email" required>
         <br>
         <br>
-        <label for="message">Message:</label>
+        <label for="message"><u>Message:</u></label>
         <br>
         <textarea id="message" name="message"></textarea>
         <br>
