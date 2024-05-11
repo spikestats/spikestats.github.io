@@ -22,7 +22,7 @@
         <input type="text" id="riotId" name="riotId" required>
         <br>
         <br>
-        <label for="name"><u>User ID:</u> (Tap and hold on the "Delete" button in the Settings page of Spike Stats for 2 seconds. After the on-screen message, copy the value in the field below.)</label>
+        <label for="name"><u>User ID:</u> (Tap and hold on the "Delete" button on the Settings page of Spike Stats for 2 seconds. After the on-screen message, copy the value in the field below.)</label>
         <br>
         <input type="text" id="userId" name="userId">
         <br>
