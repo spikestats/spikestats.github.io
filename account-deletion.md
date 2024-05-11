@@ -14,7 +14,7 @@
         <li>You can use the <b>Message</b> field to provide more info.</li>
         <li>Then, tap on <b>Request Account Deletion</b> button to send your request.</li>
     </ul>
-    <p>We will process your request in 7 days.</p>
+    <p>We will process your request in 7 days. We may contact you via your provided email if more info is required.</p>
     <form action="https://formspree.io/f/mzbnyobv" method="post">
         <label for="name">Riot ID: (e.g. ValorantPlayer#EUW)</label>
         <br>
