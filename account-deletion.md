@@ -39,5 +39,19 @@
         <br>
         <input type="submit" value="Request Account Deletion">
     </form>
+
+    <script>
+        // Parse the query string
+        const urlParams = new URLSearchParams(window.location.search);
+        const userId = urlParams.get('email');
+
+        // Populate the form field if user_id is present in the query string
+        if (userId) {
+            document.getElementById('email').value = userId;
+        }
+
+        // You can add event listeners or additional logic here as needed
+    </script>
+    
 </body>
 </html>
