@@ -19,12 +19,12 @@
     <form action="https://formspree.io/f/mzbnyobv" method="post">
         <label for="name"><u>Riot ID:</u> (e.g. ValorantPlayer#EUW)</label>
         <br>
-        <input type="text" id="riotId" name="riotId" required>
+        <input type="text" id="riot_id" name="riot_id" required>
         <br>
         <br>
         <label for="name"><u>User ID:</u> (Tap and hold on the "Delete" button on the Settings page of Spike Stats for 2 seconds. After the on-screen message, paste the value in the field below.)</label>
         <br>
-        <input type="text" id="userId" name="userId">
+        <input type="text" id="user_id" name="user_id">
         <br>
         <br>
         <label for="name"><u>Email:</u></label>
@@ -43,14 +43,18 @@
     <script>
         // Parse the query string
         const urlParams = new URLSearchParams(window.location.search);
-        const userId = urlParams.get('email');
+        const userId = urlParams.get('user_id');
+
+        // Unescape the value
+        const unescapedUserId = userId ? decodeURIComponent(userId) : '';
 
         // Populate the form field if user_id is present in the query string
-        if (userId) {
-            document.getElementById('email').value = userId;
+        if (unescapedUserId) {
+            const form1Field = document.getElementById('user_id');
+            form1Field.value = unescapedUserId;
+            // Make the field un-editable
+            form1Field.readOnly = true;
         }
-
-        // You can add event listeners or additional logic here as needed
     </script>
     
 </body>
