@@ -22,9 +22,9 @@
         <input type="text" id="riot_id" name="riot_id" required>
         <br>
         <br>
-        <label for="name"><u>User ID:</u> (Tap and hold on the "Delete" button on the Settings page of Spike Stats for 2 seconds. After the on-screen message, paste the value in the field below.)</label>
+        <label id="label_user_id" for="name"><u>User ID:</u> (Tap and hold on the "Delete" button on the Settings page of Spike Stats for 2 seconds. After the on-screen message, paste the value in the field below.)</label>
         <br>
-        <input type="text" id="user_id" name="user_id">
+        <input type="text" id="form_user_id" name="form_user_id">
         <br>
         <br>
         <label for="name"><u>Email:</u></label>
@@ -50,10 +50,15 @@
 
         // Populate the form field if user_id is present in the query string
         if (unescapedUserId) {
-            const form1Field = document.getElementById('user_id');
-            form1Field.value = unescapedUserId;
+            
+            const formUserId = document.getElementById('form_user_id');
+            formUserId.value = unescapedUserId;
             // Make the field un-editable
-            form1Field.readOnly = true;
+            formUserId.readOnly = true;
+
+            const labelUserId = document.getElementById('label_user_id');
+            form1Label.textContent = "<u>User ID:</u> (Automatically filled.)";
+            
         }
     </script>
     
