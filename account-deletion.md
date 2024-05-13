@@ -57,7 +57,7 @@
             formUserId.readOnly = true;
 
             const labelUserId = document.getElementById('label_user_id');
-            labelUserId.textContent = "User ID: (Auto-filled)"
+            labelUserId.innerHTML = "<span style='text-decoaration:underline'>User ID:</span> (Auto-filled)"
             
         }
     </script>
