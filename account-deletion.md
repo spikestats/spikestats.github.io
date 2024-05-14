@@ -16,7 +16,7 @@
         <li>Then, tap on <b>Request Account Deletion</b> button to send your request.</li>
     </ol>
     <p>We will process your request in 7 days. We may contact you via your provided email if more info is required.</p>
-    <form action="https://formspree.io/f/mzbnyobv" method="post">
+    <form action="https://formsubmit.co/balserkan88@gmail.com" method="post">
         <label for="name"><u>Riot ID:</u> (e.g. ValorantPlayer#EUW)</label>
         <br>
         <input type="text" id="riot_id" name="riot_id" required>
