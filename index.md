@@ -72,7 +72,7 @@ Our apps have been downloaded more than 2.5 million times worldwide. We always s
 
 #### Contact Us
 * [Join Official Spike Stats Discord Server](https://discord.gg/UEcuWArhny)
-* [Follow on Twitter](https://twitter.com/SpikeStats)
+* [Follow on X](https://twitter.com/SpikeStats)
 * [Send an E-mail](mailto:crocusgames@gmail.com)
 
 ### Legal
