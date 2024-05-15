@@ -62,7 +62,7 @@ Spike Stats is available on App Store and Google Play.
 
 ### About Us
 
-We are a companion app development group that focuses on bringing high quality and game-enriching third party support to popular games such as Destiny 1 and Destiny 2.
+We are a companion app development group that focuses on bringing high quality and game-enriching third party support to popular games such as Destiny 2 and Valorant.
 
 Our apps have been downloaded more than 2.5 million times worldwide. We always strive to increase the quality of our apps and bring new features.
 
