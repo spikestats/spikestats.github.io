@@ -29,7 +29,7 @@ Redirecting to App Store...
     if (device === 'iOS') {
       window.location.href = 'https://apps.apple.com/app/id1541123839';
     } else if (device === 'Android') {
-      window.location.href = 'https://play.google.com/store/apps/details?id=crocusgames.com.spikestats';
+      window.location.href = 'market://details?id=crocusgames.com.spikestats';
     } else {
       console.log('Device not recognized');
     }
