@@ -3,7 +3,7 @@ Redirecting to App Store...
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Spike Stats Login</title>
+    <title>Redirecting to App Store</title>
 </head>
 <body>
 
