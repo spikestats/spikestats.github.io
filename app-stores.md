@@ -1,4 +1,4 @@
-Launching Spike Stats...
+Redirecting to App Store...
 
 <html>
 <head>
@@ -27,9 +27,9 @@ Launching Spike Stats...
   function redirectBasedOnDevice() {
     var device = detectDevice();
     if (device === 'iOS') {
-      window.location.href = 'https://apps.apple.com/app/id1541123839'; // Replace 'link1' with your iOS link
+      window.location.href = 'https://apps.apple.com/app/id1541123839';
     } else if (device === 'Android') {
-      window.location.href = ''; // Replace 'https://play.google.com/store/apps/details?id=crocusgames.com.spikestats' with your Android link
+      window.location.href = 'https://play.google.com/store/apps/details?id=crocusgames.com.spikestats';
     } else {
       console.log('Device not recognized');
     }
