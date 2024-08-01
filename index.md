@@ -40,10 +40,14 @@ Spike Stats lists the leaderboards for current and previous acts of all regions.
 
 Spike Stats lets you search for other Valorant players and see their stats effortlessly. All you need is the game name and tag line of the player and you are good to go.
 
-Spike Stats is available in 6 languages at the moment: English, French, German, Portuguese, Spanish and Turkish. We are determined to support more languages in the future.
+Spike Stats currently supports 11 languages: English, German, Spanish, French, Portuguese, Turkish, Vietnamese, Japanese, Korean, Chinese (Traditional) and Thai. We are determined to support more languages in the future.
 
 [![Image of Player Search Screen](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
 [![Image of Settings Screen](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
+
+### Multiplatform Support
+
+Spike Stats displays all your PC and console matches. We will support Valorant Mobile matches when the mobile game is released.
 
 ### Minimalistic UI
 
