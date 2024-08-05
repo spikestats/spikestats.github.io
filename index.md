@@ -4,6 +4,10 @@ Spike Stats is a Valorant tracker app for iOS & Android that specializes on anal
 
 <p align="center"><a href="screenshots/framed_5.png"><img src="screenshots/framed_5.png" width="49%" height="49%"/></a></p>
 
+Spike Stats is available on App Store and Google Play.
+<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" width="49%" height="50%"/></a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="50%" height="50%"/></a></p>
+
 ### Performance Graphs
 
 Spike Stats allows players to see their own profile, match history and statistics. It utilizes and interprets the data in the API to create insightful new information such as performance averages and trends. This data is then displayed to players in the form of beautiful graphs that are simple to digest.
@@ -60,7 +64,6 @@ Spike Stats is also fully compliant with the <a href="https://www.riotgames.com/
 
 ### Download
 
-Spike Stats is available on App Store and Google Play.
 <p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" width="49%" height="50%"/></a></p>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="50%" height="50%"/></a></p>
 
