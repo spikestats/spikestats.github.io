@@ -7,11 +7,17 @@ Launching Spike Stats...
 </head>
 <body>
     <script type="text/javascript">
-        var openApp = function() {
-            var url = window.location;
-            window.location.replace('spikestats://' + url);
-        };
-        openApp();
+    var openApp = function() {
+        var url = new URL(window.location); 
+        var code = url.searchParams.get('code'); // Get the 'code' parameter from the URL
+        if (code) {
+            var redirectUrl = 'spikestats://oauth-login?code=' + code;
+            window.location.replace(redirectUrl); // Redirect to the app with the desired format
+        } else {
+            console.error('Code not found in URL');
+        }
+    };
+    openApp();
     </script>
 </body>
 </html>
