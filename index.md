@@ -21,6 +21,20 @@ Spike Stats also provides detailed information for each individual match players
 [![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
 [![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
 
+### Valorant Coach - Your AI-Powered Game Guide:
+
+Review your matches with your personal Valorant Coach. Analyze your stats, get personalized tips and elevate your skills effortlessly.
+
+[![Image of Valorant Coach 1](screenshots/framed_12.png){:height=49%" width="49%"}](screenshots/framed_12.png)
+[![Image of Valorant Coach 2](screenshots/framed_13.png){:height=49%" width="49%"}](screenshots/framed_13.png)
+
+### Detailed Match Results
+
+Spike Stats also provides detailed information for each individual match players has completed. This includes map info, names & number of medals accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), KAST, round details and many other data points which we think players would benefit.
+
+[![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
+[![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
+
 ### Agent & Weapon Stats
 
 Spike Stats tracks players’ performance for every agent and creates a list. It includes data such as win rate, KDA info for each agent the player selects. This list can also be sorted by the mentioned metrics and be filtered by agent roles.
@@ -76,7 +90,7 @@ Our apps have been downloaded more than 2.5 million times worldwide. We always s
 
 #### Our Other Apps
 * The Vault: Item Manager [iOS](https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en)
-* Where is Xur? [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
+* Xur Alert [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
 #### Contact Us
 * [Join Official Spike Stats Discord Server](https://discord.gg/UEcuWArhny)
