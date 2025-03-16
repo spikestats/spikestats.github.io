@@ -23,22 +23,22 @@ Spike Stats helps Valorant players track their profile, match history, and game 
 
 Spike Stats gives you detailed analytics for every Valorant match you complete, including map details, medals earned, comprehensive KDA breakdowns, kills per weapon type, KAST percentages, round-by-round insights, and more, empowering you to understand and improve your gameplay.
 
-[![Valorant Tracker Match Details](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
-[![Detailed Match Analysis Valorant Tracker](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
+[![Valorant Tracker Match Details](screenshots/valorant-tracker-match-details.png){:height=49%" width="49%"}](screenshots/valorant-tracker-match-details.png)
+[![Detailed Match Analysis Valorant Tracker](screenshots/valorant-tracker-match-analysis.png){:height=49%" width="49%"}](screenshots/valorant-tracker-match-analysis.png)
 
 ## Valorant Coach – Your AI-Powered Valorant Assistant
 
 Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively.
 
-[![Valorant Coach AI Analysis](screenshots/framed_12.png){:height=49%" width="49%"}](screenshots/framed_12.png)
-[![AI Valorant Coach Tips](screenshots/framed_13.png){:height=49%" width="49%"}](screenshots/framed_13.png)
+[![Valorant Coach AI Analysis](screenshots/valorant-coach-ai-analysis.png){:height=49%" width="49%"}](screenshots/valorant-coach-ai-analysis.png)
+[![AI Valorant Coach Tips](screenshots/ai-valorant-coach-tips.png){:height=49%" width="49%"}](screenshots/ai-valorant-coach-tips.png)
 
 ## Detailed Agent & Weapon Stats
 
 Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type.
 
-[![Valorant Agent Stats Tracker](screenshots/framed_7.png){:height=49%" width="49%"}](screenshots/framed_7.png)
-[![Weapon Stats Valorant Tracker](screenshots/framed_8.png){:height=49%" width="49%"}](screenshots/framed_8.png)
+[![Valorant Agent Stats Tracker](screenshots/valorant-agent-stats-tracker.png){:height=49%" width="49%"}](screenshots/valorant-agent-stats-tracker.png)
+[![Weapon Stats Valorant Tracker](screenshots/weapon-stats-valorant-tracker.png){:height=49%" width="49%"}](screenshots/weapon-stats-valorant-tracker.png)
 
 ## Valorant Overview & Leaderboards
 
