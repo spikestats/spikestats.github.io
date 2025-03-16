@@ -51,7 +51,7 @@ Get a quick summary of your recent matches, overall win rates by mode and map, a
 
 Search any Valorant player's stats quickly using their game name and tagline. Spike Stats supports multiple languages, making the Valorant tracking experience accessible worldwide.
 
-[![Player Search Valorant Tracker](screenshots/player-search-feature-valorant-tracker.png){:height=49%" width="49%"}](screenshots/player-search-feature-valorant-tracker.png)
+[![Player Search Feature Valorant Tracker](screenshots/player-search-feature-valorant-tracker.png){:height=49%" width="49%"}](screenshots/player-search-feature-valorant-tracker.png)
 [![Valorant Tracker Multilanguage Support](screenshots/valorant-tracker-multilanguage-support.png){:height=49%" width="49%"}](screenshots/valorant-tracker-multilanguage-support.png)
 
 ## Multi-Platform Valorant Tracker
