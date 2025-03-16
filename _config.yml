@@ -2,3 +2,5 @@ theme: jekyll-theme-midnight
 title: Spike Stats
 description: Valorant Tracker for iOS & Android
 include: [".well-known"]
+plugins:
+  - jekyll-seo-tag
