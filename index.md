@@ -1,92 +1,71 @@
-## What is Spike Stats?
+# Spike Stats – Valorant Tracker App for iOS & Android
 
-Spike Stats is a Valorant tracker app for iOS & Android that specializes on analyzing players’ performance statistics and displaying them in an easy to understand fashion.
+Spike Stats is a Valorant tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
 
-<p align="center"><a href="screenshots/framed_5.png"><img src="screenshots/framed_5.png" width="49%" height="49%"/></a></p>
+<p align="center"><a href="screenshots/framed_5.png"><img src="screenshots/framed_5.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
 
-<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" width="49%" height="50%"/></a></p>
-<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="50%" height="50%"/></a></p>
+<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from App Store" width="49%" height="50%"/></a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
 
-### Performance Graphs
+## Valorant Performance Tracking with Graphs
 
-Spike Stats allows players to see their own profile, match history and statistics. It utilizes and interprets the data in the API to create insightful new information such as performance averages and trends. This data is then displayed to players in the form of beautiful graphs that are simple to digest.
+Spike Stats helps Valorant players track their profile, match history, and game statistics. Leveraging official Valorant API data, Spike Stats provides insightful metrics, averages, and trends displayed as intuitive graphs to enhance your gameplay.
 
-[![Image of Main Screen 1](screenshots/framed_1.png){:height=49%" width="49%"}](screenshots/framed_1.png)
-[![Image of Main Screen 2](screenshots/framed_2.png){:height=49%" width="49%"}](screenshots/framed_2.png)
+[![Valorant Tracker Performance Graph 1](screenshots/framed_1.png){:height=49%" width="49%"}](screenshots/framed_1.png)
+[![Valorant Tracker Performance Graph 2](screenshots/framed_2.png){:height=49%" width="49%"}](screenshots/framed_2.png)
 
-### Detailed Match Results
+## Detailed Valorant Match Analysis
 
-Spike Stats also provides detailed information for each individual match players has completed. This includes map info, names & number of medals accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), KAST, round details and many other data points which we think players would benefit.
+Spike Stats gives you detailed analytics for every Valorant match you complete, including map details, medals earned, comprehensive KDA breakdowns, kills per weapon type, KAST percentages, round-by-round insights, and more, empowering you to understand and improve your gameplay.
 
-[![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
-[![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
+[![Valorant Tracker Match Details](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
+[![Detailed Match Analysis Valorant Tracker](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
 
-### Valorant Coach - Your AI-Powered Game Guide:
+## Valorant Coach – Your AI-Powered Valorant Assistant
 
-Review your matches with your personal Valorant Coach. Analyze your stats, get personalized tips and elevate your skills effortlessly.
+Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively.
 
-[![Image of Valorant Coach 1](screenshots/framed_12.png){:height=49%" width="49%"}](screenshots/framed_12.png)
-[![Image of Valorant Coach 2](screenshots/framed_13.png){:height=49%" width="49%"}](screenshots/framed_13.png)
+[![Valorant Coach AI Analysis](screenshots/framed_12.png){:height=49%" width="49%"}](screenshots/framed_12.png)
+[![AI Valorant Coach Tips](screenshots/framed_13.png){:height=49%" width="49%"}](screenshots/framed_13.png)
 
-### Detailed Match Results
+## Detailed Agent & Weapon Stats
 
-Spike Stats also provides detailed information for each individual match players has completed. This includes map info, names & number of medals accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), KAST, round details and many other data points which we think players would benefit.
+Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type.
 
-[![Image of Match Details Screen 1](screenshots/framed_3.png){:height=49%" width="49%"}](screenshots/framed_3.png)
-[![Image of Match Details Screen 2](screenshots/framed_4.png){:height=49%" width="49%"}](screenshots/framed_4.png)
+[![Valorant Agent Stats Tracker](screenshots/framed_7.png){:height=49%" width="49%"}](screenshots/framed_7.png)
+[![Weapon Stats Valorant Tracker](screenshots/framed_8.png){:height=49%" width="49%"}](screenshots/framed_8.png)
 
-### Agent & Weapon Stats
+## Valorant Overview & Leaderboards
 
-Spike Stats tracks players’ performance for every agent and creates a list. It includes data such as win rate, KDA info for each agent the player selects. This list can also be sorted by the mentioned metrics and be filtered by agent roles.
+Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics.
 
-Spike Stats records players’ accuracy and effectiveness for every weapon and prepares a list. This list includes kills, kills per round, damage per round, shot percentages and other info for each weapon the player uses. It can also be sorted by the mentioned stats and filtered by weapon type.
+[![Valorant Tracker Overview](screenshots/framed_6.png){:height=49%" width="49%"}](screenshots/framed_6.png)
+[![Valorant Tracker Leaderboard](screenshots/framed_9.png){:height=49%" width="49%"}](screenshots/framed_9.png)
 
-[![Image of Agent_Stats Screen](screenshots/framed_7.png){:height=49%" width="49%"}](screenshots/framed_7.png)
-[![Image of Weapon_Stats Screen](screenshots/framed_8.png){:height=49%" width="49%"}](screenshots/framed_8.png)
+## Player Search & Multi-language Support
 
-### Overview & Leaderboards
+Search any Valorant player's stats quickly using their game name and tagline. Spike Stats supports multiple languages, making the Valorant tracking experience accessible worldwide.
 
-Spike Stats creates a summary of players’ progress from their recent matches. This summary includes an overall win rate per game mode, win rate per map, win rate when the user starts the match as an attacker or defender, average performance metrics such as KDA, KAST and shot percentages.
+[![Player Search Valorant Tracker](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
+[![Valorant Tracker Multilanguage Support](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
 
-Spike Stats lists the leaderboards for current and previous acts of all regions.
+## Multi-Platform Valorant Tracker
 
-[![Image of Overview Screen](screenshots/framed_6.png){:height=49%" width="49%"}](screenshots/framed_6.png)
-[![Image of Leaderboard Screen](screenshots/framed_9.png){:height=49%" width="49%"}](screenshots/framed_9.png)
+Spike Stats is available for download on both the App Store and Google Play, making it the ideal Valorant tracker app for both iOS and Android gamers.
 
-### Player Search & Multilanguage Support
+## Is Spike Stats Safe?
+Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official Valorant API, ensuring your information remains secure and confidential.
 
-Spike Stats lets you search for other Valorant players and see their stats effortlessly. All you need is the game name and tag line of the player and you are good to go.
+## Download Spike Stats – Valorant Tracker
 
-Spike Stats currently supports 11 languages: English, German, Spanish, French, Portuguese, Turkish, Vietnamese, Japanese, Korean, Chinese (Traditional) and Thai. We are determined to support more languages in the future.
+Download Spike Stats, the best Valorant Tracker:
 
-[![Image of Player Search Screen](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
-[![Image of Settings Screen](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
+- [Download on App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
+- [Download on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
 
-### Multiplatform Support
+## About Us
 
-Spike Stats displays all your PC and console matches. We will support Valorant Mobile matches when the mobile game is released.
-
-### Minimalistic UI
-
-Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues from it to recreate the look and feel of the game while adding some characteristic elements of its own.
-
-### Is Spike Stats safe to use?
-Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO);</a> the official authentication method of Riot Games that lets users sign in to the Riot Games website and other select third party applications. Spike Stats was reviewed and granted access to this feature by Riot Games.
-<br/>
-Spike Stats is also fully compliant with the <a href="https://www.riotgames.com/en/DevRel/valorant-api-launch">Valorant API policies.</a> It only uses the official Valorant API and does not collect or display any other data from unofficial sources. Therefore; Spike Stats is completely safe to use.
-
-### Download
-
-Spike Stats is available on App Store and Google Play.
-
-<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" width="49%" height="50%"/></a></p>
-<p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" width="50%" height="50%"/></a></p>
-
-### About Us
-
-We are a companion app development group that focuses on bringing high quality and game-enriching third party support to popular games such as Destiny 2 and Valorant.
-
-Our apps have been downloaded more than 2.5 million times worldwide. We always strive to increase the quality of our apps and bring new features.
+We specialize in developing high-quality companion apps designed to enrich gaming experiences for popular games like Destiny 2 and Valorant. Our apps have collectively reached thousands of dedicated gamers worldwide.
 
 #### Our Other Apps
 * The Vault: Item Manager [iOS](https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en)
