@@ -1,5 +1,5 @@
 ---
-title: "Valorant Tracker | Performance Analytics & Stats"
+title: "Valorant Tracker - Performance Analytics & Stats"
 description: "Spike Stats is the ultimate Valorant Tracker app for iOS & Android. Analyze detailed Valorant stats, match history, agent & weapon data, and more to elevate your gameplay."
 ---
 
