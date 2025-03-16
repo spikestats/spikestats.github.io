@@ -44,15 +44,15 @@ Spike Stats tracks your performance for every Valorant agent, displaying key met
 
 Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics.
 
-[![Valorant Tracker Overview](screenshots/framed_6.png){:height=49%" width="49%"}](screenshots/framed_6.png)
-[![Valorant Tracker Leaderboard](screenshots/framed_9.png){:height=49%" width="49%"}](screenshots/framed_9.png)
+[![Valorant Tracker Overview](screenshots/valorant-tracker-overview-page.png){:height=49%" width="49%"}](screenshots/valorant-tracker-overview-page.png)
+[![Valorant Tracker Leaderboard](screenshots/valorant-tracker-leaderboard.png){:height=49%" width="49%"}](screenshots/valorant-tracker-leaderboard.png)
 
 ## Player Search & Multi-language Support
 
 Search any Valorant player's stats quickly using their game name and tagline. Spike Stats supports multiple languages, making the Valorant tracking experience accessible worldwide.
 
-[![Player Search Valorant Tracker](screenshots/framed_10.png){:height=49%" width="49%"}](screenshots/framed_10.png)
-[![Valorant Tracker Multilanguage Support](screenshots/framed_11.png){:height=49%" width="49%"}](screenshots/framed_11.png)
+[![Player Search Valorant Tracker](screenshots/player-search-feature-valorant-tracker.png){:height=49%" width="49%"}](screenshots/player-search-feature-valorant-tracker.png)
+[![Valorant Tracker Multilanguage Support](screenshots/valorant-tracker-multilanguage-support.png){:height=49%" width="49%"}](screenshots/valorant-tracker-multilanguage-support.png)
 
 ## Multi-Platform Valorant Tracker
 
