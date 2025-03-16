@@ -1,3 +1,8 @@
+---
+title: "Spike Stats – Valorant Tracker App | Performance Analytics & Stats"
+description: "Spike Stats is the ultimate Valorant Tracker app for iOS & Android. Analyze detailed Valorant stats, match history, agent & weapon data, and more to elevate your gameplay."
+---
+
 # Spike Stats – Valorant Tracker App for iOS & Android
 
 Spike Stats is a Valorant Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
