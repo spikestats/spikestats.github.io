@@ -7,17 +7,17 @@ description: "Access your complete Valorant match history with Spike Stats. View
 
 The **Matches Archive** in Spike Stats allows you to explore your entire Valorant match history — permanently recorded and categorized for easy access.
 
-## 📁 Every Match, Forever
+## Every Match, Forever
 
 - All matches ever processed by Spike Stats are **permanently stored** — they are **never deleted**.
 - The archive lets you revisit any match, no matter how long ago it was played.
 
-## 🗂️ Filter by Season, Act & Game Mode
+## Filter by Season, Act & Game Mode
 
 - Select any **season & act** along with a **game mode** to filter and view your full list of matches.
 - Game modes include **Unrated**, **Competitive**, **Swiftplay**, **Spike Rush**, **Deathmatch**, **Escalation** and **Team Deathmatch**.
 
-## 📊 Performance Summary for Selected Filters
+## Performance Summary for Selected Filters
 
 Each time period and game mode selection includes a **performance summary**, helping you analyze your progress and consistency. The summary includes:
 
@@ -31,7 +31,7 @@ Each time period and game mode selection includes a **performance summary**, hel
 
 This gives you a powerful retrospective look at your gameplay across different seasons.
 
-## 📤 Share Your Archive Stats
+## Share Your Archive Stats
 
 Want to show off your stats?
 
