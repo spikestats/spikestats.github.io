@@ -65,8 +65,8 @@ Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/artic
 
 Download Spike Stats, the best Valorant Tracker:
 
-- [Download on App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
+- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
 
 ## About Us
 
