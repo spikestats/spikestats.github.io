@@ -7,11 +7,11 @@ description: "Track your Valorant matches with Spike Stats. Swipe between game m
 
 The match history page in Spike Stats provides an intuitive and interactive way to review your recent Valorant games — complete with performance graphs and filtering options.
 
-## 🕹️ Track Your Latest 200 Matches
+## 🕹️ Track Your Matches
 
-Spike Stats displays your **most recent 200 Valorant matches** in an easy-to-swipe layout organized by game modes.
+Spike Stats displays your **Valorant matches** in an easy-to-swipe layout organized by game modes.
 
-> Looking for older matches? Don’t worry — you can find all of them in the [Matches Archive](/features/matches-archive).
+> All your matches are permanently recorded and neatly categorized by episode & act in the [Matches Archive](/features/matches-archive).
 
 ## 🎮 Swipe Between Game Modes
 
