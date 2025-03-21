@@ -1,5 +1,5 @@
 ---
-title: "Valorant Match Details – Full Round & Player Analysis | Spike Stats"
+title: "Valorant Match Details – Full Round & Player Analysis"
 description: "Explore every detail of your Valorant matches with Spike Stats. Analyze rounds, kills, duels, weapons, abilities, and get tips from your AI-powered Valorant Coach."
 ---
 
@@ -13,8 +13,7 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
 - See your **earned medals**, such as:
   - Best Round
   - Multi-Kills
-  - First Blood
-  - Most Assists
+  - First Blood and more
 
 ## ⚔️ KDA, K/D & Score Breakdown
 
@@ -22,7 +21,7 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
 - Dig deeper into **how** you got those kills:
   - Which **weapon or ability** was used
   - Damage dealt **per ability or weapon**
-  - How many players were killed with each ability
+  - How many players were killed with **each ability or weapon**
 
 ## 🤖 Valorant Coach – AI-Powered Performance Feedback
 
