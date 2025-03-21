@@ -9,7 +9,7 @@ The match history page in Spike Stats provides an intuitive and interactive way 
 
 ## 🕹️ Track Your Matches
 
-Spike Stats displays your **Valorant matches** in an easy-to-swipe layout organized by game modes.
+Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout organized by game modes.
 
 > All your matches are permanently recorded and neatly categorized by episode & act in the [Matches Archive](/features/matches-archive).
 
