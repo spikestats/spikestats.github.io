@@ -1,5 +1,5 @@
 ---
-title: "Valorant Tracker - Match History & Performance Graphs"
+title: "Match History and Performance Graphs - Valorant Tracker"
 description: "Track your Valorant matches with Spike Stats. Swipe between game modes, view summary stats, and interact with performance graphs."
 ---
 
