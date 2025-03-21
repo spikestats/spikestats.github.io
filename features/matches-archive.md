@@ -21,13 +21,13 @@ The **Matches Archive** in Spike Stats allows you to explore your entire Valoran
 
 Each time period and game mode selection includes a **performance summary**, helping you analyze your progress and consistency. The summary includes:
 
-- 🔺 Peak Rank
-- 🧠 K/D Ratio & KDA
-- 🎯 Headshot Percentage
-- 📈 Win Rate
-- ⚡ Combat Score & Average Damage per Round
-- 🛡️ KAST %
-- ⏱️ Match Durations
+- Peak Rank
+- K/D Ratio & KDA
+- Headshot Percentage
+- Win Rate
+- Combat Score & Average Damage per Round
+- KAST %
+- Match Durations
 
 This gives you a powerful retrospective look at your gameplay across different seasons.
 
