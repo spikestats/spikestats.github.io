@@ -5,7 +5,7 @@ description: "Track your Valorant matches with Spike Stats. Swipe between game m
 
 # Valorant Match History & Timeline
 
-The match history screen in Spike Stats provides an intuitive and interactive way to review your recent Valorant games — complete with performance graphs and filtering options.
+The match history page in Spike Stats provides an intuitive and interactive way to review your recent Valorant games — complete with performance graphs and filtering options.
 
 ## 🕹️ Track Your Latest 200 Matches
 
@@ -15,18 +15,17 @@ Spike Stats displays your **most recent 200 Valorant matches** in an easy-to-swi
 
 ## 🎮 Swipe Between Game Modes
 
-- Game mode tabs are located at the bottom of the screen.
-- Swipe between **Competitive**, **Unrated**, **Spike Rush**, and more.
-- Each tab displays your matches in a list (collection view) that includes:
+- Swipe between **Unrated**, **Competitive**, **Swiftplay**, **Spike Rush**, **Deathmatch**, **Escalation** and **Team Deathmatch** game modes.
+- Each tab displays your matches in a chronological list that includes:
   - **Match outcome** (Victory/Defeat)
   - **Round score** (e.g., 13–7)
   - **KDA summary** (Kills / Deaths / Assists)
 
-Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) screen.
+Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) page.
 
 ## 📈 Performance Graphs That Respond
 
-- The top of the screen displays a **graph that updates dynamically** as you change game modes.
+- **Performance Graphs update dynamically** as you change game modes.
 - Every match is represented as a **dot on the graph**.
 - Tap on a dot to **auto-scroll the match list** to the corresponding match.
 
@@ -51,7 +50,11 @@ This helps you see trends over time and evaluate your recent improvement.
 
 ---
 
-📥 [Download Spike Stats for iOS](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-📥 [Download Spike Stats for Android](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+## Download Spike Stats – Valorant Tracker
+
+Download Spike Stats, the best Valorant Tracker:
+
+- [Download on App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
+- [Download on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
 
 🎯 [Back to Homepage](/)
