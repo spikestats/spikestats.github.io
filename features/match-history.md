@@ -1,9 +1,9 @@
 ---
-title: "Valorant Match History Tracker – Spike Stats"
+title: "Valorant Tracker - Match History & Performance Graphs – Spike Stats"
 description: "Track your Valorant matches with Spike Stats. Swipe between game modes, view summary stats, and interact with performance graphs."
 ---
 
-# Valorant Match History & Timeline
+# Valorant Match History & Performance Graphs
 
 The match history page in Spike Stats provides an intuitive and interactive way to review your recent Valorant games — complete with performance graphs and filtering options.
 
