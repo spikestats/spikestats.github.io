@@ -11,7 +11,7 @@ The match history page in Spike Stats provides an intuitive and interactive way 
 
 Spike Stats displays your **most recent 200 Valorant matches** in an easy-to-swipe layout organized by game modes.
 
-> Looking for older matches? Don’t worry — you can find all of them in the [Match Archive](/features/match-archive).
+> Looking for older matches? Don’t worry — you can find all of them in the [Matches Archive](/features/matches-archive).
 
 ## 🎮 Swipe Between Game Modes
 
