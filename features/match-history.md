@@ -42,9 +42,9 @@ Tapping a match takes you to its detailed breakdown in the [Match Details](/feat
 ## 🗓️ Filter Your Data by Time
 
 You can filter your graphs and matches by:
-- **All Time**
-- **Last 7 Days**
-- **Last 30 Days**
+- All Time
+- Last 7 Days
+- Last 30 Days
 
 This helps you see trends over time and evaluate your recent improvement.
 
