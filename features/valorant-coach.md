@@ -34,8 +34,7 @@ Once you receive an answer, Spike Stats suggests **additional, deeper prompts** 
 - *How do my stats compare to others?*
 - *Am I making enough impact as a teammate?*
 - *Am I playing too aggressively or too defensively?*
-- *What can I do to reduce unnecessary deaths?*
-- And many, many more
+- *What can I do to reduce unnecessary deaths?* and many, many more...
 
 This interactive flow makes coaching feel intuitive, personalized, and player-focused.
 
