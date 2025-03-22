@@ -35,7 +35,7 @@ Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get
 
 ## Detailed Agent & Weapon Stats
 
-Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type.
+Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type. [View your Agent & Weapon Stats →](/features/agent-weapon-stats)
 
 [![Valorant Agent Stats Tracker](screenshots/valorant-agent-stats-tracker.png){:height=49%" width="49%"}](screenshots/valorant-agent-stats-tracker.png)
 [![Weapon Stats Valorant Tracker](screenshots/weapon-stats-valorant-tracker.png){:height=49%" width="49%"}](screenshots/weapon-stats-valorant-tracker.png)
