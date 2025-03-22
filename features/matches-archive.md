@@ -26,7 +26,7 @@ Each time period and game mode selection includes a **performance summary**, hel
 - Headshot Percentage
 - Win Rate
 - Combat Score & Average Damage per Round
-- KAST %
+- KAST percentage
 - Match Durations
 
 This gives you a powerful retrospective look at your gameplay across different seasons.
