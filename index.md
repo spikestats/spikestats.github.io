@@ -28,7 +28,7 @@ Spike Stats gives you detailed analytics for every Valorant match you complete, 
 
 ## Valorant Coach – Your AI-Powered Valorant Assistant
 
-Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively.
+Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively. [Get personalized insights from the AI Valorant Coach →](/features/valorant-coach)
 
 [![Valorant Coach AI Analysis](screenshots/valorant-coach-ai-analysis.png){:height=49%" width="49%"}](screenshots/valorant-coach-ai-analysis.png)
 [![AI Valorant Coach Tips](screenshots/ai-valorant-coach-tips.png){:height=49%" width="49%"}](screenshots/ai-valorant-coach-tips.png)
