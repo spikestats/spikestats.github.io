@@ -49,7 +49,8 @@ Get a quick summary of your recent matches, overall win rates by mode and map, a
 
 ## Player Search & Multi-language Support
 
-Search any Valorant player's stats quickly using their game name and tagline. Spike Stats makes Valorant tracking easy for players worldwide with full localization in 11 languages, including English, German, Spanish, French, Portuguese, Turkish, Thai, Vietnamese, Japanese, Korean, and Traditional Chinese.
+Search any Valorant player's stats quickly using their game name and tagline.
+Spike Stats makes Valorant tracking easy for players worldwide with full localization in 11 languages, including English, German, Spanish, French, Portuguese, Turkish, Thai, Vietnamese, Japanese, Korean, and Traditional Chinese.
 
 [![Player Search Feature Valorant Tracker](screenshots/player-search-feature-valorant-tracker.png){:height=49%" width="49%"}](screenshots/player-search-feature-valorant-tracker.png)
 [![Valorant Tracker Multilanguage Support](screenshots/valorant-tracker-multilanguage-support.png){:height=49%" width="49%"}](screenshots/valorant-tracker-multilanguage-support.png)
