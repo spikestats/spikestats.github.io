@@ -91,9 +91,7 @@ Create a **custom stats screenshot** for your weapon performance to share your t
 
 ---
 
-## Download Spike Stats – Valorant Tracker
-
-Download Spike Stats, the best Valorant Tracker:
+## Download Spike Stats – The Best Valorant Tracker
 
 - [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
 - [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
