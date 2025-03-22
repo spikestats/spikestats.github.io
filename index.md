@@ -61,10 +61,7 @@ Spike Stats is available for download on both the App Store and Google Play, mak
 ## Is Spike Stats Safe?
 Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official Valorant API, ensuring your information remains secure and confidential.
 
-## Download Spike Stats – Valorant Tracker
-
-Download Spike Stats, the best Valorant Tracker:
-
+## Download Spike Stats – the best Valorant Tracker
 - [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
 - [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
 
