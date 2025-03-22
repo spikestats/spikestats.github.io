@@ -41,14 +41,14 @@ You can also **export this overview as a custom screenshot** to share your perfo
 
 ## Leaderboards – Check Best Players
 
-The **Leaderboard** feature lets you explore the **official Valorant leaderboards** across all supported regions and seasons.
+The **Leaderboards** feature lets you explore the **official Valorant leaderboards** across all supported regions and seasons.
 
 ### Features:
 - Choose your **region**
 - Select the **season and act**
 - View the top players for your chosen scope
 
-### Leaderboard Displays:
+### Leaderboards Display:
 - Rank position
 - Rating
 - Riot ID
