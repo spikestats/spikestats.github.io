@@ -42,7 +42,7 @@ Spike Stats tracks your performance for every Valorant agent, displaying key met
 
 ## Valorant Overview & Leaderboards
 
-Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics.
+Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics. [Track your Valorant Overview & Leaderboards →](/features/account-overview-leaderboard)
 
 [![Valorant Tracker Overview](screenshots/valorant-tracker-overview-page.png){:height=49%" width="49%"}](screenshots/valorant-tracker-overview-page.png)
 [![Valorant Tracker Leaderboard](screenshots/valorant-tracker-leaderboard.png){:height=49%" width="49%"}](screenshots/valorant-tracker-leaderboard.png)
