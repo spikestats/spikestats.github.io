@@ -65,9 +65,9 @@ For each weapon, you can view:
 - Damage per round
 
 Tapping on a weapon reveals a **detailed shot breakdown**:
-- Headshot %
-- Body shot %
-- Leg shot %
+- Headshot percentage
+- Body shot percentage
+- Leg shot percentage
 
 ### Sorting & Filtering Options
 
@@ -75,7 +75,7 @@ Sort your weapons list by:
 - Kills
 - Kills per round
 - Damage per round
-- Headshot %
+- Shot percentages and more...
 
 Filter weapons by their **type**, such as:
 - Sidearms
