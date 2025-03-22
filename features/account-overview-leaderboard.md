@@ -30,7 +30,7 @@ The **Overview** tab gives you a high-level summary of your performance across a
 - Score per match
 - Kills per round
 - Damage per round
-- KAST %
+- KAST percentage
 
 ### Shot Accuracy Breakdown:
 - Headshot, body shot and leg shot percentages and shot counts
@@ -41,10 +41,10 @@ You can also **export this overview as a custom screenshot** to share your perfo
 
 ## Leaderboards – Check Best Players
 
-The **Leaderboard** page lets you explore the **official Valorant leaderboards** across all supported regions and seasons.
+The **Leaderboard** feature lets you explore the **official Valorant leaderboards** across all supported regions and seasons.
 
 ### Features:
-- Choose your **region** (e.g., EU, NA, KR)
+- Choose your **region**
 - Select the **season and act**
 - View the top players for your chosen scope
 
