@@ -59,9 +59,11 @@ Search any Valorant player's stats quickly using their game name and tagline. Sp
 Spike Stats is available for download on both the App Store and Google Play, making it the ideal Valorant Tracker app for both iOS and Android gamers.
 
 ## Is Spike Stats Safe?
-Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official Valorant API, ensuring your information remains secure and confidential.
 
-## Download Spike Stats – the best Valorant Tracker
+Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Valorant API</a>, ensuring your information remains secure and confidential.
+
+## Download Spike Stats – The Best Valorant Tracker
+
 - [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
 - [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
 
@@ -70,6 +72,7 @@ Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/artic
 We specialize in developing high-quality companion apps designed to enrich gaming experiences for popular games like Destiny 2 and Valorant. Our apps have collectively reached thousands of dedicated gamers worldwide.
 
 #### Our Other Apps
+
 * The Vault: Item Manager [iOS](https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en)
 * Xur Alert [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
