@@ -9,7 +9,7 @@ Spike Stats is a <a href="https://playvalorant.com/">Valorant</a> Tracker app de
 
 <p align="center"><a href="screenshots/spike-stats-valorant-tracker-app.png"><img src="screenshots/spike-stats-valorant-tracker-app.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
 
-<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from App Store" width="49%" height="50%"/></a>
+<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
 </p><p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
 
 ## Valorant Performance Tracking with Graphs
@@ -58,7 +58,7 @@ Spike Stats makes Valorant tracking easy for players worldwide with full localiz
 
 ## Multi-Platform Valorant Tracker
 
-Spike Stats is available for download on both the App Store and Google Play, making it the ideal Valorant Tracker app for both iOS and Android gamers.
+Spike Stats is available for download on both the Apple App Store and Google Play, making it the ideal Valorant Tracker app for both iOS and Android gamers.
 
 ## Is Spike Stats Safe?
 
