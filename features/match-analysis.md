@@ -32,9 +32,9 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
 ## Shooting Accuracy & Shot Percentages
 
 - Get a detailed breakdown of your **accuracy**:
-  - Headshot %
-  - Bodyshot %
-  - Legshot %
+  - Headshot percentage
+  - Bodyshot percentage
+  - Legshot percentage
 - Shot stats are shown **overall** and **per weapon**, helping you spot weaknesses in your aim.
 
 ## Ability Usage per Round
@@ -58,11 +58,11 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
 ## All Players’ Stats
 
 - Get a full list of **all player stats** from the match:
-  - KAST %
+  - KAST percentage
   - Kills / Deaths / Assists
   - K/D ratio
   - Kill difference (Kills - Deaths)
-  - Headshot %
+  - Headshot percentage
   - Average Damage
   - Average Combat Score
 - **Tap and hold** any player’s name to view their profile and stats.
