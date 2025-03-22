@@ -5,7 +5,7 @@ description: "Spike Stats is the ultimate Valorant Tracker app for iOS & Android
 
 # Spike Stats – Valorant Tracker App for iOS & Android
 
-Spike Stats is a Valorant Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
+Spike Stats is a <a href="https://playvalorant.com/">Valorant</a> Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
 
 <p align="center"><a href="screenshots/spike-stats-valorant-tracker-app.png"><img src="screenshots/spike-stats-valorant-tracker-app.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
 
@@ -60,7 +60,7 @@ Spike Stats is available for download on both the App Store and Google Play, mak
 
 ## Is Spike Stats Safe?
 
-Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Valorant API</a>, ensuring your information remains secure and confidential.
+Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official <a href="https://www.riotgames.com/en/DevRel/valorant-api-launch">Valorant API</a>, ensuring your information remains secure and confidential.
 
 ## Download Spike Stats – The Best Valorant Tracker
 
