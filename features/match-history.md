@@ -35,8 +35,8 @@ Tapping a match takes you to its detailed breakdown in the [Match Details](/feat
 - Assists
 - K/D Ratio
 - Combat Score
-- KAST %
-- Headshot %
+- KAST percentage
+- Headshot percentage
 - Average Damage per Round
 
 ## Filter Your Data by Time
