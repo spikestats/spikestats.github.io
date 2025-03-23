@@ -7,7 +7,7 @@ description: "Track your Valorant matches with Spike Stats. Swipe between game m
 
 The match history page in Spike Stats provides an intuitive and interactive way to review your recent Valorant games — complete with performance graphs and filtering options.
 
-<p align="center"><a href="screenshots/test-1.png"><img src="screenshots/test-1.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
+<p align="center"><a href="/screenshots/test-1.png"><img src="/screenshots/test-1.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
 
 ## Track Your Matches
 
