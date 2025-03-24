@@ -51,6 +51,9 @@ You can filter your graphs and matches by:
 
 This helps you see trends over time and evaluate your recent improvement.
 
+[![Match history page showing stat and time filters with performance graph](/screenshots/spike-stats-graph-stat-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-stat-options.png)
+[![Match history page showing time filters with performance graph](/screenshots/spike-stats-graph-time-frame-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-time-frame-options.png)
+
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
