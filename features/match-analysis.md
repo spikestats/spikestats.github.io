@@ -60,6 +60,9 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
 - Analyze which **weapons or abilities** led to success or failure.
 - This is great for understanding which players you struggled against and why.
 
+[![Valorant Tracker Detailed Round Results](/screenshots/valorant-tracker-round-results.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-round-results.png)
+[![Valorant Tracker Duel Details](/screenshots/valorant-tracker-duel-details.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-duel-details.png)
+
 ## All Players’ Stats
 
 - Get a full list of **all player stats** from the match:
@@ -71,6 +74,9 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
   - Average Damage
   - Average Combat Score
 - **Tap and hold** any player’s name to view their profile and stats.
+
+[![Valorant Tracker Basic Stats of All Players](/screenshots/valorant-tracker-all-player-basic-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-all-player-basic-stats.png)
+[![Valorant Tracker Advanced Stats of All Players](/screenshots/valorant-tracker-all-player-advanced-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-all-player-advanced-stats.png)
 
 ---
 
