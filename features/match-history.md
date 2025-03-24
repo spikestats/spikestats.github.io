@@ -24,7 +24,7 @@ Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout
 Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) page.
 
 [![Valorant Tracker KAST performance graph from Spike Stats match history page](/screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kast.png)
-[![Spike Stats app showing Valorant K/D trend graph over time](/screenshots/valorant-tracker-graph-kd){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kd)
+[![Spike Stats app showing Valorant K/D trend graph over time](/screenshots/valorant-tracker-graph-kd.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kd.png)
 
 ## Performance Graphs That Respond
 
