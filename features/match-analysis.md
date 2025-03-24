@@ -23,11 +23,16 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
   - Damage dealt **per ability or weapon**
   - How many players were killed with **each ability or weapon**
 
+ <p align="center"><a href="/screenshots/valorant-tracker-match-details-medals-kda.png"><img src="/screenshots/valorant-tracker-match-details-medals-kda.png" alt="Spike Stats Match Overview and KDA Details" width="49%" height="49%"/></a></p>
+
 ## Valorant Coach – AI-Powered Performance Feedback
 
 - Spike Stats includes a smart **AI-powered Valorant Coach** that reviews your match and offers **personalized tips**.
 - It analyzes your performance trends and **recommends areas to improve** — like timing, duels, or utility usage.
 - Perfect for players who want to improve without watching hours of VODs.
+
+[![Spike Stats Valorant Coach: AI-powered Game Guide 1](/screenshots/valorant-tracker-ai-game-coach-1.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-ai-game-coach-1.png)
+[![Spike Stats Valorant Coach: AI-powered Game Guide 2](/screenshots/valorant-tracker-ai-game-coach-2.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-ai-game-coach-2.png)
 
 ## Shooting Accuracy & Shot Percentages
 
