@@ -23,7 +23,7 @@ Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout
 
 Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) page.
 
-[![Valorant Tracker KAST performance graph from Spike Stats match history page](/screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kast.png)
+[![KAST performance graph from Spike Stats Valorant match history](/screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kast.png)
 [![Spike Stats app showing Valorant K/D trend graph over time](/screenshots/valorant-tracker-graph-kd.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kd.png)
 
 ## Performance Graphs That Respond
@@ -51,8 +51,8 @@ You can filter your graphs and matches by:
 
 This helps you see trends over time and evaluate your recent improvement.
 
-[![Match history page showing stat and time filters with performance graph](/screenshots/spike-stats-graph-stat-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-stat-options.png)
-[![Match history page showing time filters with performance graph](/screenshots/spike-stats-graph-time-frame-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-time-frame-options.png)
+[![Performance graph with stat and time filters on Spike Stats match history screen](/screenshots/spike-stats-graph-stat-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-stat-options.png)
+[![Time range filter options and graph on match history screen in Spike Stats](/screenshots/spike-stats-graph-time-frame-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-time-frame-options.png)
 
 ---
 
