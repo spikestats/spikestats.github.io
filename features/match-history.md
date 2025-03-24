@@ -7,8 +7,6 @@ description: "Track your Valorant matches with Spike Stats. Swipe between game m
 
 The match history page in Spike Stats provides an intuitive and interactive way to review your recent Valorant games — complete with performance graphs and filtering options.
 
-<p align="center"><a href="/screenshots/test-1.png"><img src="/screenshots/test-1.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
-
 ## Track Your Matches
 
 Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout organized by game modes.
@@ -24,6 +22,9 @@ Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout
   - **KDA summary** (Kills / Deaths / Assists)
 
 Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) page.
+
+[![Valorant Tracker Performance Graph Displaying K/D Stat](/screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kast.png)
+[![Valorant Tracker Performance Graph Displaying KAST Stat](/screenshots/valorant-tracker-graph-kd){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kd)
 
 ## Performance Graphs That Respond
 
