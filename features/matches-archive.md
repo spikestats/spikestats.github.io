@@ -31,8 +31,8 @@ Each time period and game mode selection includes a **performance summary**, hel
 
 This gives you a powerful retrospective look at your gameplay across different seasons.
 
-[![Spike Stats Valorant Tracker Showing Full Match History Archive](/screenshots/valorant-tracker-match-archive-1.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-match-archive-1.png)
-[![Valorant Match Archive with Selected Season and Game Mode Filters](/screenshots/valorant-tracker-match-archive-2.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-match-archive-2.png)
+[![Spike Stats Valorant Tracker showing full match history archive](/screenshots/valorant-tracker-match-archive-1.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-match-archive-1.png)
+[![Valorant Match Archive with selected season and game mode filters](/screenshots/valorant-tracker-match-archive-2.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-match-archive-2.png)
 
 ## Share Your Archive Stats
 
