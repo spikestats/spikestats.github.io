@@ -7,7 +7,7 @@ description: "Spike Stats is the ultimate Valorant Tracker app for iOS & Android
 
 Spike Stats is a <a href="https://playvalorant.com/">Valorant</a> Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
 
-<p align="center"><a href="screenshots/spike-stats-valorant-tracker-app.png"><img src="screenshots/spike-stats-valorant-tracker-app.png" alt="Spike Stats Valorant Tracker App" width="49%" height="49%"/></a></p>
+<p align="center"><a href="screenshots/spike-stats-sign-in-page.png"><img src="screenshots/spike-stats-sign-in-page.png" alt="Sign In screen for Spike Stats Valorant Tracker app" width="49%" height="49%"/></a></p>
 
 <p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
 </p><p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
