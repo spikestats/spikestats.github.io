@@ -1,3 +1,10 @@
+---
+layout: default
+title: Spike Stats User Profiles
+robots: noindex
+sitemap: false
+---
+
 Launching Spike Stats...
 
 If you do not have Spike Stats on your device, please download it first:
