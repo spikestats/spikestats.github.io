@@ -38,6 +38,9 @@ Once you receive an answer, Spike Stats suggests **additional, deeper prompts** 
 
 This interactive flow makes coaching feel intuitive, personalized, and player-focused.
 
+[![AI Coach analyzing match history in standalone mode](/screenshots/spike-stats-valorant-coach-standalone-1.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-standalone-1.png)
+[![Weapon performance breakdown by Spike Stats AI Coach](/screenshots/spike-stats-valorant-coach-standalone-2.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-standalone-2.png)
+
 ---
 
 ## 2. Match-Specific Coaching
@@ -57,6 +60,9 @@ You can also use the Valorant Coach from within any **Match Details page**, wher
 - *How can I improve in future matches?*
 
 These prompts provide actionable insights to help you understand not just **what** happened in a match — but **why** it happened and **how to improve**.
+
+[![Match-specific analysis by Valorant AI Coach in Spike Stats](/screenshots/spike-stats-valorant-coach-match-analysis-1.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-match-analysis-1.png)
+[![Valorant Coach in Match Details screen analyzing teammate performance](/screenshots/spike-stats-valorant-coach-match-analysis-2.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-match-analysis-2.png)
 
 ---
 
