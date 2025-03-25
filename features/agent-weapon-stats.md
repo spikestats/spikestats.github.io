@@ -47,6 +47,9 @@ You can also filter agents by their **roles**, such as:
 
 Generate a **custom screenshot** of your sorted agent stats — perfect for sharing your performance with friends or on social media.
 
+[![Agent Stats screen displaying KDA and win rate per agent](/screenshots/valorant-tracker-agent-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-agent-stats.png)
+[![Agent Stats screen displaying sorting options](/screenshots/valorant-tracker-agent-stats-sorting-options.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-agent-stats-sorting-options.png)
+
 ---
 
 ## Weapon Stats
@@ -88,6 +91,9 @@ Filter weapons by their **type**, such as:
 ### Shareable Weapon Stats
 
 Create a **custom stats screenshot** for your weapon performance to share your top picks and accuracy highlights.
+
+[![Weapon Stats page displaying total kills, kills/round and damage/round](/screenshots/valorant-tracker-weapon-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-weapon-stats.png)
+[![Weapon sorting options by kills, damage, or accuracy stats](/screenshots/valorant-tracker-weapon-stats-sorting-options.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-weapon-stats-sorting-options.png)
 
 ---
 
