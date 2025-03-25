@@ -5,7 +5,7 @@ description: "Spike Stats is the ultimate Valorant Tracker app for iOS & Android
 
 # Spike Stats – Valorant Tracker App for iOS & Android
 
-Spike Stats is a <a href="https://playvalorant.com/">Valorant</a> Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
+Spike Stats is a <a href="https://playvalorant.com/" target="_blank">Valorant</a> Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
 
 <p align="center"><a href="screenshots/spike-stats-sign-in-page.png" target="_blank"><img src="screenshots/spike-stats-sign-in-page.png" alt="Sign In screen for Spike Stats Valorant Tracker app" width="49%" height="49%"/></a></p>
 
@@ -16,8 +16,12 @@ Spike Stats is a <a href="https://playvalorant.com/">Valorant</a> Tracker app de
 
 Spike Stats helps Valorant players track their profile, match history, and game statistics. Leveraging official Valorant API data, Spike Stats provides insightful metrics, averages, and trends displayed as intuitive graphs to enhance your gameplay. [Explore your Match History & Performance Graphs →](/features/match-history)
 
-[![Valorant Tracker Performance Graph 1](screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](screenshots/valorant-tracker-graph-kast.png)
-[![Valorant Tracker Performance Graph 2](screenshots/spike-stats-graph-stat-options.png){:height=49%" width="49%"}](screenshots/spike-stats-graph-stat-options.png)
+<a href="screenshots/valorant-tracker-graph-kast.png" target="_blank">
+  <img src="screenshots/valorant-tracker-graph-kast.png" alt="Valorant Tracker Performance Graph 1" width="49%" height="49%">
+</a>
+<a href="screenshots/spike-stats-graph-stat-options.png" target="_blank">
+  <img src="screenshots/spike-stats-graph-stat-options.png" alt="Valorant Tracker Performance Graph 2" width="49%" height="49%">
+</a>
 
 ## Detailed Valorant Match Analysis
 
