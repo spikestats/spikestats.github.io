@@ -27,29 +27,45 @@ Spike Stats helps Valorant players track their profile, match history, and game 
 
 Spike Stats gives you detailed analytics for every Valorant match you complete, including map details, medals earned, comprehensive KDA breakdowns, kills per weapon type, KAST percentages, round-by-round insights, and more, empowering you to understand and improve your gameplay. [Dive into your Match Details & Round Analysis →](/features/match-analysis)
 
-[![Valorant Tracker Match Details](screenshots/valorant-tracker-match-details-medals-kda.png){:height=49%" width="49%"}](screenshots/valorant-tracker-match-details-medals-kda.png)
-[![Detailed Match Analysis Valorant Tracker](screenshots/valorant-tracker-all-player-basic-stats.png){:height=49%" width="49%"}](screenshots/valorant-tracker-all-player-basic-stats.png)
+<a href="screenshots/valorant-tracker-match-details-medals-kda.png" target="_blank">
+  <img src="screenshots/valorant-tracker-match-details-medals-kda.png" alt="Valorant Tracker Match Details" width="49%" height="49%">
+</a>
+<a href="screenshots/valorant-tracker-all-player-basic-stats.png" target="_blank">
+  <img src="screenshots/valorant-tracker-all-player-basic-stats.png" alt="Detailed Match Analysis Valorant Tracker" width="49%" height="49%">
+</a>
 
 ## Valorant Coach – Your AI-Powered Valorant Assistant
 
 Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively. [Get personalized insights from the AI Valorant Coach →](/features/valorant-coach)
 
-[![Valorant Coach AI Analysis](screenshots/spike-stats-valorant-coach-standalone-1.png){:height=49%" width="49%"}](screenshots/spike-stats-valorant-coach-standalone-1.png)
-[![AI Valorant Coach Tips](screenshots/spike-stats-valorant-coach-standalone-2.png){:height=49%" width="49%"}](screenshots/spike-stats-valorant-coach-standalone-2.png)
+<a href="screenshots/spike-stats-valorant-coach-standalone-1.png" target="_blank">
+  <img src="screenshots/spike-stats-valorant-coach-standalone-1.png" alt="Valorant Coach AI Analysis" width="49%" height="49%">
+</a>
+<a href="screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
+  <img src="screenshots/spike-stats-valorant-coach-standalone-2.png" alt="AI Valorant Coach Tips" width="49%" height="49%">
+</a>
 
 ## Detailed Agent & Weapon Stats
 
 Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type. [View your Agent & Weapon Stats →](/features/agent-weapon-stats)
 
-[![Valorant Agent Stats Tracker](screenshots/valorant-tracker-agent-stats.png){:height=49%" width="49%"}](screenshots/valorant-tracker-agent-stats.png)
-[![Weapon Stats Valorant Tracker](screenshots/valorant-tracker-weapon-stats.png){:height=49%" width="49%"}](screenshots/valorant-tracker-weapon-stats.png)
+<a href="screenshots/valorant-tracker-agent-stats.png" target="_blank">
+  <img src="screenshots/valorant-tracker-agent-stats.png" alt="Valorant Agent Stats Tracker" width="49%" height="49%">
+</a>
+<a href="screenshots/valorant-tracker-weapon-stats.png" target="_blank">
+  <img src="screenshots/valorant-tracker-weapon-stats.png" alt="Weapon Stats Valorant Tracker" width="49%" height="49%">
+</a>
 
 ## Valorant Overview & Leaderboards
 
 Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics. [Track your Valorant Overview & Leaderboards →](/features/account-overview-leaderboard)
 
-[![Valorant Tracker Overview](screenshots/spike-stats-account-overview.png){:height=49%" width="49%"}](screenshots/spike-stats-account-overview.png)
-[![Valorant Tracker Leaderboard](screenshots/valorant-tracker-official-leaderboard.png){:height=49%" width="49%"}](screenshots/valorant-tracker-official-leaderboard.png)
+<a href="screenshots/spike-stats-account-overview.png" target="_blank">
+  <img src="screenshots/spike-stats-account-overview.png" alt="Valorant Tracker Overview" width="49%" height="49%">
+</a>
+<a href="screenshots/valorant-tracker-official-leaderboard.png" target="_blank">
+  <img src="screenshots/valorant-tracker-official-leaderboard.png" alt="Valorant Tracker Leaderboard" width="49%" height="49%">
+</a>
 
 ## Player Search & Multi-language Support
 
@@ -57,8 +73,12 @@ Search any Valorant player's stats quickly using their game name and tagline. [L
 
 Spike Stats makes Valorant tracking easy for players worldwide with full localization in 11 languages, including English, German, Spanish, French, Portuguese, Turkish, Thai, Vietnamese, Japanese, Korean, and Traditional Chinese.
 
-[![Player Search Feature Valorant Tracker](screenshots/valorant-tracker-player-search.png){:height=49%" width="49%"}](screenshots/valorant-tracker-player-search.png)
-[![Valorant Tracker Multilanguage Support](screenshots/spike-stats-settings.png){:height=49%" width="49%"}](screenshots/spike-stats-settings.png)
+<a href="screenshots/valorant-tracker-player-search.png" target="_blank">
+  <img src="screenshots/valorant-tracker-player-search.png" alt="Player Search Feature Valorant Tracker" width="49%" height="49%">
+</a>
+<a href="screenshots/spike-stats-settings.png" target="_blank">
+  <img src="screenshots/spike-stats-settings.png" alt="Valorant Tracker Multilanguage Support" width="49%" height="49%">
+</a>
 
 ## Multi-Platform Valorant Tracker
 
