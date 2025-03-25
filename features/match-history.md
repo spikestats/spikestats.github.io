@@ -14,7 +14,7 @@ The match history page in Spike Stats provides an intuitive and interactive way 
     allowfullscreen title="Track Your Valorant Match History with Spike Stats">
   </iframe>
 </div>
-
+<br>
 ## Track Your Matches
 
 Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout organized by game modes.
