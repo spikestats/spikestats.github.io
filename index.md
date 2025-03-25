@@ -9,8 +9,8 @@ Spike Stats is a <a href="https://playvalorant.com/" target="_blank">Valorant</a
 
 <p align="center"><a href="screenshots/spike-stats-sign-in-page.png" target="_blank"><img src="screenshots/spike-stats-sign-in-page.png" alt="Sign In screen for Spike Stats Valorant Tracker app" width="49%" height="49%"/></a></p>
 
-<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
-</p><p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
+<p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
+</p><p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
 
 ## Valorant Performance Tracking with Graphs
 
@@ -90,8 +90,15 @@ Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/artic
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 ## About Us
 
@@ -99,8 +106,18 @@ We specialize in developing high-quality companion apps designed to enrich gamin
 
 #### Our Other Apps
 
-* The Vault: Item Manager [iOS](https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en)
-* Xur Alert [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
+<ul>
+  <li>
+    The Vault: Item Manager –
+    <a href="https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510" target="_blank">iOS</a> /
+    <a href="https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager&hl=en" target="_blank">Android</a>
+  </li>
+  <li>
+    Xur Alert –
+    <a href="https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784" target="_blank">iOS</a> /
+    <a href="https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en" target="_blank">Android</a>
+  </li>
+</ul>
 
 #### Contact Us
 <ul>
