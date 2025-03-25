@@ -1,4 +1,16 @@
+---
+layout: default
+title: Spike Stats Sign In
+robots: noindex
+sitemap: false
+---
+
 Launching Spike Stats...
+
+If Spike Stats doesn’t automatically open:
+1.	Open your browser app settings (e.g., Chrome) and tap **Site Settings.**
+2.	Ensure **JavaScript** is enabled.
+3.	Try signing in again.
 
 <html>
 <head>
