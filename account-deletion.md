@@ -1,3 +1,10 @@
+---
+layout: default
+title: Spike Stats Account Deletion
+robots: noindex
+sitemap: false
+---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
