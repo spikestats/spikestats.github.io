@@ -30,22 +30,22 @@ Spike Stats gives you detailed analytics for every Valorant match you complete, 
 
 Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively. [Get personalized insights from the AI Valorant Coach →](/features/valorant-coach)
 
-[![Valorant Coach AI Analysis](screenshots/valorant-coach-ai-analysis.png){:height=49%" width="49%"}](screenshots/valorant-coach-ai-analysis.png)
-[![AI Valorant Coach Tips](screenshots/ai-valorant-coach-tips.png){:height=49%" width="49%"}](screenshots/ai-valorant-coach-tips.png)
+[![Valorant Coach AI Analysis](screenshots/spike-stats-valorant-coach-standalone-1.png){:height=49%" width="49%"}](screenshots/spike-stats-valorant-coach-standalone-1.png)
+[![AI Valorant Coach Tips](screenshots/spike-stats-valorant-coach-standalone-2.png){:height=49%" width="49%"}](screenshots/spike-stats-valorant-coach-standalone-2.png)
 
 ## Detailed Agent & Weapon Stats
 
 Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type. [View your Agent & Weapon Stats →](/features/agent-weapon-stats)
 
-[![Valorant Agent Stats Tracker](screenshots/valorant-agent-stats-tracker.png){:height=49%" width="49%"}](screenshots/valorant-agent-stats-tracker.png)
-[![Weapon Stats Valorant Tracker](screenshots/weapon-stats-valorant-tracker.png){:height=49%" width="49%"}](screenshots/weapon-stats-valorant-tracker.png)
+[![Valorant Agent Stats Tracker](screenshots/valorant-tracker-agent-stats.png){:height=49%" width="49%"}](screenshots/valorant-tracker-agent-stats.png)
+[![Weapon Stats Valorant Tracker](screenshots/valorant-tracker-weapon-stats.png){:height=49%" width="49%"}](screenshots/valorant-tracker-weapon-stats.png)
 
 ## Valorant Overview & Leaderboards
 
 Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics. [Track your Valorant Overview & Leaderboards →](/features/account-overview-leaderboard)
 
-[![Valorant Tracker Overview](screenshots/valorant-tracker-overview-page.png){:height=49%" width="49%"}](screenshots/valorant-tracker-overview-page.png)
-[![Valorant Tracker Leaderboard](screenshots/valorant-tracker-leaderboard.png){:height=49%" width="49%"}](screenshots/valorant-tracker-leaderboard.png)
+[![Valorant Tracker Overview](screenshots/spike-stats-account-overview.png){:height=49%" width="49%"}](screenshots/spike-stats-account-overview.png)
+[![Valorant Tracker Leaderboard](screenshots/valorant-tracker-official-leaderboard.png){:height=49%" width="49%"}](screenshots/valorant-tracker-official-leaderboard.png)
 
 ## Player Search & Multi-language Support
 
