@@ -33,6 +33,8 @@ Searched players can be added to your **Favorites List**, so you can revisit the
 
 This makes it easy to keep track of friends, teammates, or streamers you follow.
 
+<p align="center"><a href="/screenshots/valorant-tracker-player-search.png"><img src="/screenshots/valorant-tracker-player-search.png" alt="Valorant Tracker screen showing player search and saved favorites list" width="49%" height="49%"/></a></p>
+
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
