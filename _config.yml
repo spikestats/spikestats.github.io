@@ -4,3 +4,4 @@ description: Valorant Tracker for iOS & Android
 include: [".well-known"]
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
