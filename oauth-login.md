@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spike Stats Sign In
+title: Sign In
 robots: noindex
 sitemap: false
 ---
