@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spike Stats Sign Out
+title: Sign Out
 robots: noindex
 sitemap: false
 ---
