@@ -86,7 +86,7 @@ Spike Stats is available for download on both the Apple App Store and Google Pla
 
 ## Is Spike Stats Safe?
 
-Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official <a href="https://www.riotgames.com/en/DevRel/valorant-api-launch">Valorant API</a>, ensuring your information remains secure and confidential.
+Spike Stats uses <a href="https://support-developer.riotgames.com/hc/en-us/articles/22801670382739-RSO-Riot-Sign-On" target="_blank">Riot Sign on (RSO)</a>, Riot Games’ official authentication method. It exclusively accesses data via the official <a href="https://www.riotgames.com/en/DevRel/valorant-api-launch" target="_blank">Valorant API</a>, ensuring your information remains secure and confidential.
 
 ## Download Spike Stats – The Best Valorant Tracker
 
@@ -103,9 +103,11 @@ We specialize in developing high-quality companion apps designed to enrich gamin
 * Xur Alert [iOS](https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784) [Android](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&hl=en)
 
 #### Contact Us
-* [Join Official Spike Stats Discord Server](https://discord.gg/UEcuWArhny)
-* [Follow on X](https://twitter.com/SpikeStats)
-* [Send an E-mail](mailto:crocusgames@gmail.com)
+<ul>
+  <li><a href="https://discord.gg/UEcuWArhny" target="_blank">Join Official Spike Stats Discord Server</a></li>
+  <li><a href="https://twitter.com/SpikeStats" target="_blank">Follow on X</a></li>
+  <li><a href="mailto:crocusgames@gmail.com" target="_blank">Send an E-mail</a></li>
+</ul>
 
 ### Legal
 
