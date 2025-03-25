@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spike Stats User Profiles
+title: Spike Stats User Profile
 robots: noindex
 sitemap: false
 ---
