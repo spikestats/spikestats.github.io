@@ -16,8 +16,8 @@ Spike Stats is a <a href="https://playvalorant.com/">Valorant</a> Tracker app de
 
 Spike Stats helps Valorant players track their profile, match history, and game statistics. Leveraging official Valorant API data, Spike Stats provides insightful metrics, averages, and trends displayed as intuitive graphs to enhance your gameplay. [Explore your Match History & Performance Graphs →](/features/match-history)
 
-[![Valorant Tracker Performance Graph 1](screenshots/valorant-tracker-performance-graph-1.png){:height=49%" width="49%"}](screenshots/valorant-tracker-performance-graph-1.png)
-[![Valorant Tracker Performance Graph 2](screenshots/valorant-tracker-performance-graph-2.png){:height=49%" width="49%"}](screenshots/valorant-tracker-performance-graph-2.png)
+[![Valorant Tracker Performance Graph 1](screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](screenshots/valorant-tracker-graph-kast.png)
+[![Valorant Tracker Performance Graph 2](screenshots/spike-stats-graph-stat-options.png){:height=49%" width="49%"}](screenshots/spike-stats-graph-stat-options.png)
 
 ## Detailed Valorant Match Analysis
 
