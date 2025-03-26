@@ -38,8 +38,12 @@ Once you receive an answer, Spike Stats suggests **additional, deeper prompts** 
 
 This interactive flow makes coaching feel intuitive, personalized, and player-focused.
 
-[![AI Coach analyzing match history in standalone mode](/screenshots/spike-stats-valorant-coach-standalone-1.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-standalone-1.png)
-[![Weapon performance breakdown by Spike Stats AI Coach](/screenshots/spike-stats-valorant-coach-standalone-2.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-standalone-2.png)
+<a href="/screenshots/spike-stats-valorant-coach-standalone-1.png" target="_blank">
+  <img src="/screenshots/spike-stats-valorant-coach-standalone-1.png" alt="AI Coach analyzing match history in standalone mode" width="49%" height="49%">
+</a>
+<a href="/screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
+  <img src="/screenshots/spike-stats-valorant-coach-standalone-2.png" alt="Weapon performance breakdown by Spike Stats AI Coach" width="49%" height="49%">
+</a>
 
 ---
 
@@ -61,14 +65,25 @@ You can also use the Valorant Coach from within any **Match Details page**, wher
 
 These prompts provide actionable insights to help you understand not just **what** happened in a match — but **why** it happened and **how to improve**.
 
-[![Match-specific analysis by Valorant AI Coach in Spike Stats](/screenshots/spike-stats-valorant-coach-match-analysis-1.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-match-analysis-1.png)
-[![Valorant Coach in Match Details screen analyzing teammate performance](/screenshots/spike-stats-valorant-coach-match-analysis-2.png){:height=49%" width="49%"}](/screenshots/spike-stats-valorant-coach-match-analysis-2.png)
+<a href="/screenshots/spike-stats-valorant-coach-match-analysis-1.png" target="_blank">
+  <img src="/screenshots/spike-stats-valorant-coach-match-analysis-1.png" alt="Match-specific analysis by Valorant AI Coach in Spike Stats" width="49%" height="49%">
+</a>
+<a href="/screenshots/spike-stats-valorant-coach-match-analysis-2.png" target="_blank">
+  <img src="/screenshots/spike-stats-valorant-coach-match-analysis-2.png" alt="Valorant Coach in Match Details screen analyzing teammate performance" width="49%" height="49%">
+</a>
 
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
