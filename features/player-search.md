@@ -33,13 +33,20 @@ Searched players can be added to your **Favorites List**, so you can revisit the
 
 This makes it easy to keep track of friends, teammates, or streamers you follow.
 
-<p align="center"><a href="/screenshots/valorant-tracker-player-search.png"><img src="/screenshots/valorant-tracker-player-search.png" alt="Valorant Tracker screen showing player search and saved favorites list" width="49%" height="49%"/></a></p>
+<p align="center"><a href="/screenshots/valorant-tracker-player-search.png" target="_blank"><img src="/screenshots/valorant-tracker-player-search.png" alt="Valorant Tracker screen showing player search and saved favorites list" width="49%" height="49%"/></a></p>
 
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
