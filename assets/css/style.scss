@@ -3,25 +3,34 @@
 
 @import "{{ site.theme }}";
 
-/* System font stack for fast loading & no CLS */
-$system-font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+@font-face {
+    font-family: regularFont;
+    src: url(/fonts/valorant_regular_font.otf);
+    font-display: swap;
+}
+
+@font-face {
+    font-family: headerFont;
+    src: url(/fonts/valorant_header_font.ttf);
+    font-display: swap;
+}
 
 div {
-  font-family: $system-font-stack;
-  font-weight: normal;
-  font-size: 16px;
+    font-family: regularFont;
+    font-weight: normal;
+    font-size:16px;
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: $system-font-stack !important;
+    font-family: regularFont !important;
 }
 
 h1 {
-  font-family: $system-font-stack;
+    font-family: headerFont;
 }
 
 section {
-  max-width: 650px;
+  max-width:650px;
   padding: 30px 0px 50px 0px;
   margin: 20px 0;
   margin-top: 70px;
@@ -33,7 +42,7 @@ section {
     padding: 0 0 5px 0;
 
     h1 {
-      font-family: $system-font-stack;
+      font-family: headerFont;
       font-weight: normal;
       font-size: 40px;
       text-align: center;
@@ -42,7 +51,7 @@ section {
 
     p {
       color: #d7cfbe;
-      font-family: $system-font-stack;
+      font-family: regularFont;
       font-weight: normal;
       font-size: 18px;
       text-align: center;
@@ -50,7 +59,7 @@ section {
 
     .credits {
       font-size: 11px;
-      font-family: $system-font-stack;
+      font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       color: #696969;
       margin-top: -10px;
