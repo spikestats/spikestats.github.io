@@ -6,11 +6,13 @@
 @font-face {
     font-family: regularFont;
     src: url(/fonts/valorant_regular_font.otf);
+    font-display: swap;
 }
 
 @font-face {
     font-family: headerFont;
     src: url(/fonts/valorant_header_font.ttf);
+    font-display: swap;
 }
 
 div {
