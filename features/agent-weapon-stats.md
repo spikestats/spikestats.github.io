@@ -47,8 +47,12 @@ You can also filter agents by their **roles**, such as:
 
 Generate a **custom screenshot** of your sorted agent stats — perfect for sharing your performance with friends or on social media.
 
-[![Agent Stats screen displaying KDA and win rate per agent](/screenshots/valorant-tracker-agent-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-agent-stats.png)
-[![Agent Stats screen displaying sorting options](/screenshots/valorant-tracker-agent-stats-sorting-options.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-agent-stats-sorting-options.png)
+<a href="/screenshots/valorant-tracker-agent-stats.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-agent-stats.png" alt="Agent Stats screen displaying KDA and win rate per agent" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-agent-stats-sorting-options.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-agent-stats-sorting-options.png" alt="Agent Stats screen displaying sorting options" width="49%" height="49%">
+</a>
 
 ---
 
@@ -92,14 +96,25 @@ Filter weapons by their **type**, such as:
 
 Create a **custom stats screenshot** for your weapon performance to share your top picks and accuracy highlights.
 
-[![Weapon Stats page displaying total kills, kills/round and damage/round](/screenshots/valorant-tracker-weapon-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-weapon-stats.png)
-[![Weapon sorting options by kills, damage, or accuracy stats](/screenshots/valorant-tracker-weapon-stats-sorting-options.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-weapon-stats-sorting-options.png)
+<a href="/screenshots/valorant-tracker-weapon-stats.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-weapon-stats.png" alt="Weapon Stats page displaying total kills, kills/round and damage/round" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-weapon-stats-sorting-options.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-weapon-stats-sorting-options.png" alt="Weapon sorting options by kills, damage, or accuracy stats" width="49%" height="49%">
+</a>
 
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
