@@ -31,8 +31,12 @@ Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout
 
 Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) page.
 
-[![KAST performance graph from Spike Stats Valorant match history](/screenshots/valorant-tracker-graph-kast.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kast.png)
-[![Spike Stats app showing Valorant K/D trend graph over time](/screenshots/valorant-tracker-graph-kd.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-graph-kd.png)
+<a href="/screenshots/valorant-tracker-graph-kast.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-graph-kast.png" alt="KAST performance graph from Spike Stats Valorant match history" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-graph-kd.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-graph-kd.png" alt="Spike Stats app showing Valorant K/D trend graph over time" width="49%" height="49%">
+</a>
 
 ## Performance Graphs That Respond
 
@@ -59,14 +63,25 @@ You can filter your graphs and matches by:
 
 This helps you see trends over time and evaluate your recent improvement.
 
-[![Performance graph with stat and time filters on Spike Stats match history screen](/screenshots/spike-stats-graph-stat-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-stat-options.png)
-[![Time range filter options and graph on match history screen in Spike Stats](/screenshots/spike-stats-graph-time-frame-options.png){:height=49%" width="49%"}](/screenshots/spike-stats-graph-time-frame-options.png)
+<a href="/screenshots/spike-stats-graph-stat-options.png" target="_blank">
+  <img src="/screenshots/spike-stats-graph-stat-options.png" alt="Performance graph with stat and time filters on Spike Stats match history screen" width="49%" height="49%">
+</a>
+<a href="/screenshots/spike-stats-graph-time-frame-options.png" target="_blank">
+  <img src="/screenshots/spike-stats-graph-time-frame-options.png" alt="Time range filter options and graph on match history screen in Spike Stats" width="49%" height="49%">
+</a>
 
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
