@@ -37,8 +37,12 @@ The **Overview** tab gives you a high-level summary of your performance across a
 
 You can also **export this overview as a custom screenshot** to share your performance snapshot with others.
 
-[![Spike Stats displaying performance overview for competitive matches](/screenshots/spike-stats-account-overview.png){:height=49%" width="49%"}](/screenshots/spike-stats-account-overview.png)
-[![Valorant Tracker displaying performance overview for deathmatches](/screenshots/valorant-tracker-account-overview.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-account-overview.png)
+<a href="/screenshots/spike-stats-account-overview.png" target="_blank">
+  <img src="/screenshots/spike-stats-account-overview.png" alt="Spike Stats displaying performance overview for competitive matches" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-account-overview.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-account-overview.png" alt="Valorant Tracker displaying performance overview for deathmatches" width="49%" height="49%">
+</a>
 
 ---
 
@@ -59,13 +63,20 @@ The **Leaderboards** feature lets you explore the **official Valorant leaderboar
 
 Whether you're climbing yourself or just keeping an eye on the top ranks, Spike Stats makes leaderboard tracking simple and accessible.
 
-<p align="center"><a href="/screenshots/valorant-tracker-official-leaderboard.png"><img src="/screenshots/valorant-tracker-official-leaderboard.png" alt="Official Valorant leaderboard showing top players in Spike Stats" width="49%" height="49%"/></a></p>
+<p align="center"><a href="/screenshots/valorant-tracker-official-leaderboard.png" target="_blank"><img src="/screenshots/valorant-tracker-official-leaderboard.png" alt="Official Valorant leaderboard showing top players in Spike Stats" width="49%" height="49%"/></a></p>
 
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
