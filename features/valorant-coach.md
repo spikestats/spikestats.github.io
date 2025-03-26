@@ -9,6 +9,14 @@ Spike Stats includes a powerful built-in **AI Valorant Coach** designed to help 
 
 Whether you're looking to refine your agent playstyle, improve weapon usage, or get coaching for a specific match, the Valorant Coach has you covered.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+  <iframe src="https://www.youtube.com/embed/BvmhqQomlVU"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen title="Track Your Valorant Match History with Spike Stats">
+  </iframe>
+</div>
+<br>
 ## Personalized Insights Through Smart Prompts
 
 The Valorant Coach is available in **two powerful modes** to suit your needs:
