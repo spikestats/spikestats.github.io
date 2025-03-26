@@ -23,7 +23,7 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
   - Damage dealt **per ability or weapon**
   - How many players were killed with **each ability or weapon**
 
- <p align="center"><a href="/screenshots/valorant-tracker-match-details-medals-kda.png"><img src="/screenshots/valorant-tracker-match-details-medals-kda.png" alt="Match details screen showing medals earned and KDA stats in Spike Stats" width="49%" height="49%"/></a></p>
+ <p align="center"><a href="/screenshots/valorant-tracker-match-details-medals-kda.png" target="_blank"><img src="/screenshots/valorant-tracker-match-details-medals-kda.png" alt="Match details screen showing medals earned and KDA stats in Spike Stats" width="49%" height="49%"/></a></p>
 
 ## Valorant Coach – AI-Powered Performance Feedback
 
@@ -39,8 +39,12 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
   - Legshot percentage
 - Shot stats are shown **overall** and **per weapon**, helping you spot weaknesses in your aim.
 
-[![Valorant Coach page showing AI match analysis summary in Spike Stats](/screenshots/valorant-tracker-ai-game-coach-1.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-ai-game-coach-1.png)
-[![AI performance feedback with follow-up coaching prompts in Spike Stats](/screenshots/valorant-tracker-ai-game-coach-2.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-ai-game-coach-2.png)
+<a href="/screenshots/valorant-tracker-ai-game-coach-1.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-ai-game-coach-1.png" alt="Valorant Coach page showing AI match analysis summary in Spike Stats" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-ai-game-coach-2.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-ai-game-coach-2.png" alt="AI performance feedback with follow-up coaching prompts in Spike Stats" width="49%" height="49%">
+</a>
 
 ## Ability Usage per Round
 
@@ -60,8 +64,12 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
 - Analyze which **weapons or abilities** led to success or failure.
 - This is great for understanding which players you struggled against and why.
 
-[![Round-by-round kill and death breakdown from Valorant match in Spike Stats](/screenshots/valorant-tracker-round-results.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-round-results.png)
-[![Duels breakdown showing player vs. enemy outcomes by weapon in Spike Stats](/screenshots/valorant-tracker-duel-details.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-duel-details.png)
+<a href="/screenshots/valorant-tracker-round-results.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-round-results.png" alt="Round-by-round kill and death breakdown from Valorant match in Spike Stats" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-duel-details.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-duel-details.png" alt="Duels breakdown showing player vs. enemy outcomes by weapon in Spike Stats" width="49%" height="49%">
+</a>
 
 ## All Players’ Stats
 
@@ -75,14 +83,25 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
   - Average Combat Score
 - **Tap and hold** any player’s name to view their profile and stats.
 
-[![Basic player stats table including kills, deaths, assists, and more in Spike Stats](/screenshots/valorant-tracker-all-player-basic-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-all-player-basic-stats.png)
-[![Advanced match stats for all players showing KAST, headshot %, damage per round, and more in Spike Stats](/screenshots/valorant-tracker-all-player-advanced-stats.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-all-player-advanced-stats.png)
+<a href="/screenshots/valorant-tracker-all-player-basic-stats.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-all-player-basic-stats.png" alt="Basic player stats table including kills, deaths, assists, and more in Spike Stats" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-all-player-advanced-stats.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-all-player-advanced-stats.png" alt="Advanced match stats for all players showing KAST, headshot %, damage per round, and more in Spike Stats" width="49%" height="49%">
+</a>
 
 ---
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
