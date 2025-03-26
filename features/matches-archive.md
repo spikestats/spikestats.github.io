@@ -31,8 +31,12 @@ Each time period and game mode selection includes a **performance summary**, hel
 
 This gives you a powerful retrospective look at your gameplay across different seasons.
 
-[![Spike Stats Valorant Tracker showing full match history archive](/screenshots/valorant-tracker-match-archive-1.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-match-archive-1.png)
-[![Valorant Match Archive with selected season and game mode filters](/screenshots/valorant-tracker-match-archive-2.png){:height=49%" width="49%"}](/screenshots/valorant-tracker-match-archive-2.png)
+<a href="/screenshots/valorant-tracker-match-archive-1.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-match-archive-1.png" alt="Spike Stats Valorant Tracker showing full match history archive" width="49%" height="49%">
+</a>
+<a href="/screenshots/valorant-tracker-match-archive-2.png" target="_blank">
+  <img src="/screenshots/valorant-tracker-match-archive-2.png" alt="Valorant Match Archive with selected season and game mode filters" width="49%" height="49%">
+</a>
 
 ## Share Your Archive Stats
 
@@ -44,7 +48,14 @@ Want to show off your stats?
 
 ## Download Spike Stats – The Best Valorant Tracker
 
-- [Download Spike Stats on Apple App Store](https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839)  
-- [Download Spike Stats on Google Play](https://play.google.com/store/apps/details?id=crocusgames.com.spikestats)
+<ul>
+  <li>
+    <a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank">Download Spike Stats – Valorant Tracker for iOS
+</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank">Download Spike Stats – Valorant Tracker for Android</a>
+  </li>
+</ul>
 
 [← Back to Homepage](/)
