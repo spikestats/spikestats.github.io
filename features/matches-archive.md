@@ -31,12 +31,34 @@ Each time period and game mode selection includes a **performance summary**, hel
 
 This gives you a powerful retrospective look at your gameplay across different seasons.
 
-<a href="/screenshots/valorant-tracker-match-archive-1.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-match-archive-1.png" alt="Spike Stats Valorant Tracker showing full match history archive" width="49%" height="49%">
-</a>
-<a href="/screenshots/valorant-tracker-match-archive-2.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-match-archive-2.png" alt="Valorant Match Archive with selected season and game mode filters" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-match-archive-1.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-match-archive-1.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-match-archive-1.png"
+          alt="Spike Stats Valorant Tracker showing full match history archive"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-match-archive-2.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-match-archive-2.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-match-archive-2.png"
+        alt="Valorant Match Archive with selected season and game mode filters"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Share Your Archive Stats
 
