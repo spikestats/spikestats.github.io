@@ -43,19 +43,7 @@ Spike Stats helps Valorant players track their profile, match history, and game 
         decoding="async">
     </picture>
 </a>
-<a href="screenshots/spike-stats-graph-stat-options.png" target="_blank">
-  <picture>
-      <source srcset="/screenshots/spike-stats-graph-stat-options.webp" type="image/webp">
-      <img
-        src="/screenshots/spike-stats-graph-stat-options.png"
-        alt="Valorant Tracker Performance Graph 2"
-        width="822"
-        height="1647"
-        style="width: 49%; height: auto;"
-        loading="lazy"
-        decoding="async">
-    </picture>
-</a>
+
 
 ## Detailed Valorant Match Analysis
 
