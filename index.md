@@ -44,7 +44,6 @@ Spike Stats helps Valorant players track their profile, match history, and game 
     </picture>
 </a>
 
-
 ## Detailed Valorant Match Analysis
 
 Spike Stats gives you detailed analytics for every Valorant match you complete, including map details, medals earned, comprehensive KDA breakdowns, kills per weapon type, KAST percentages, round-by-round insights, and more, empowering you to understand and improve your gameplay. [Dive into your Match Details & Round Analysis →](/features/match-analysis)
