@@ -33,7 +33,21 @@ Searched players can be added to your **Favorites List**, so you can revisit the
 
 This makes it easy to keep track of friends, teammates, or streamers you follow.
 
-<p align="center"><a href="/screenshots/valorant-tracker-player-search.png" target="_blank"><img src="/screenshots/valorant-tracker-player-search.png" alt="Valorant Tracker screen showing player search and saved favorites list" width="49%" height="49%"/></a></p>
+<p align="center">
+  <a href="/screenshots/valorant-tracker-player-search.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-player-search.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-player-search.png"
+        alt="Valorant Tracker screen showing player search and saved favorites list"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
