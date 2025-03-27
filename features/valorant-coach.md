@@ -46,12 +46,34 @@ Once you receive an answer, Spike Stats suggests **additional, deeper prompts** 
 
 This interactive flow makes coaching feel intuitive, personalized, and player-focused.
 
-<a href="/screenshots/spike-stats-valorant-coach-standalone-1.png" target="_blank">
-  <img src="/screenshots/spike-stats-valorant-coach-standalone-1.png" alt="AI Coach analyzing match history in standalone mode" width="49%" height="49%">
-</a>
-<a href="/screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
-  <img src="/screenshots/spike-stats-valorant-coach-standalone-2.png" alt="Weapon performance breakdown by Spike Stats AI Coach" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/spike-stats-valorant-coach-standalone-1.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/spike-stats-valorant-coach-standalone-1.webp" type="image/webp">
+        <img
+          src="/screenshots/spike-stats-valorant-coach-standalone-1.png"
+          alt="AI Coach analyzing match history in standalone mode"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/spike-stats-valorant-coach-standalone-2.webp" type="image/webp">
+      <img
+        src="/screenshots/spike-stats-valorant-coach-standalone-2.png"
+        alt="Weapon performance breakdown by Spike Stats AI Coach"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
@@ -73,12 +95,34 @@ You can also use the Valorant Coach from within any **Match Details page**, wher
 
 These prompts provide actionable insights to help you understand not just **what** happened in a match — but **why** it happened and **how to improve**.
 
-<a href="/screenshots/spike-stats-valorant-coach-match-analysis-1.png" target="_blank">
-  <img src="/screenshots/spike-stats-valorant-coach-match-analysis-1.png" alt="Match-specific analysis by Valorant AI Coach in Spike Stats" width="49%" height="49%">
-</a>
-<a href="/screenshots/spike-stats-valorant-coach-match-analysis-2.png" target="_blank">
-  <img src="/screenshots/spike-stats-valorant-coach-match-analysis-2.png" alt="Valorant Coach in Match Details screen analyzing teammate performance" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/spike-stats-valorant-coach-match-analysis-1.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/spike-stats-valorant-coach-match-analysis-1.webp" type="image/webp">
+        <img
+          src="/screenshots/spike-stats-valorant-coach-match-analysis-1.png"
+          alt="Match-specific analysis by Valorant AI Coach in Spike Stats"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/spike-stats-valorant-coach-match-analysis-2.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/spike-stats-valorant-coach-match-analysis-2.webp" type="image/webp">
+      <img
+        src="/screenshots/spike-stats-valorant-coach-match-analysis-2.png"
+        alt="Valorant Coach in Match Details screen analyzing teammate performance"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
