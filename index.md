@@ -30,7 +30,7 @@ Spike Stats is a <a href="https://playvalorant.com/" target="_blank">Valorant</a
 
 Spike Stats helps Valorant players track their profile, match history, and game statistics. Leveraging official Valorant API data, Spike Stats provides insightful metrics, averages, and trends displayed as intuitive graphs to enhance your gameplay. [Explore your Match History & Performance Graphs →](/features/match-history)
 
-<a href="screenshots/valorant-tracker-graph-kast.png" target="_blank">
+<a href="/screenshots/valorant-tracker-graph-kast.png" target="_blank">
   <picture>
       <source srcset="/screenshots/valorant-tracker-graph-kast.webp" type="image/webp">
       <img
