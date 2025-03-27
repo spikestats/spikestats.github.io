@@ -47,12 +47,34 @@ You can also filter agents by their **roles**, such as:
 
 Generate a **custom screenshot** of your sorted agent stats — perfect for sharing your performance with friends or on social media.
 
-<a href="/screenshots/valorant-tracker-agent-stats.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-agent-stats.png" alt="Agent Stats screen displaying KDA and win rate per agent" width="49%" height="49%">
-</a>
-<a href="/screenshots/valorant-tracker-agent-stats-sorting-options.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-agent-stats-sorting-options.png" alt="Agent Stats screen displaying sorting options" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-agent-stats.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-agent-stats.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-agent-stats.png"
+          alt="Agent Stats screen displaying KDA and win rate per agent"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-agent-stats-sorting-options.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-agent-stats-sorting-options.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-agent-stats-sorting-options.png"
+        alt="Agent Stats screen displaying sorting options"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
@@ -96,12 +118,34 @@ Filter weapons by their **type**, such as:
 
 Create a **custom stats screenshot** for your weapon performance to share your top picks and accuracy highlights.
 
-<a href="/screenshots/valorant-tracker-weapon-stats.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-weapon-stats.png" alt="Weapon Stats page displaying total kills, kills/round and damage/round" width="49%" height="49%">
-</a>
-<a href="/screenshots/valorant-tracker-weapon-stats-sorting-options.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-weapon-stats-sorting-options.png" alt="Weapon sorting options by kills, damage, or accuracy stats" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-weapon-stats.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-weapon-stats.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-weapon-stats.png"
+          alt="Weapon Stats page displaying total kills, kills/round and damage/round"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-weapon-stats-sorting-options.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-weapon-stats-sorting-options.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-weapon-stats-sorting-options.png"
+        alt="Weapon sorting options by kills, damage, or accuracy stats"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
