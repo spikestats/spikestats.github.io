@@ -63,12 +63,34 @@ Spike Stats helps Valorant players track their profile, match history, and game 
 
 Spike Stats gives you detailed analytics for every Valorant match you complete, including map details, medals earned, comprehensive KDA breakdowns, kills per weapon type, KAST percentages, round-by-round insights, and more, empowering you to understand and improve your gameplay. [Dive into your Match Details & Round Analysis →](/features/match-analysis)
 
-<a href="screenshots/valorant-tracker-match-details-medals-kda.png" target="_blank">
-  <img src="screenshots/valorant-tracker-match-details-medals-kda.png" alt="Valorant Tracker Match Details" width="49%" height="49%">
-</a>
-<a href="screenshots/valorant-tracker-all-player-basic-stats.png" target="_blank">
-  <img src="screenshots/valorant-tracker-all-player-basic-stats.png" alt="Detailed Match Analysis Valorant Tracker" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-match-details-medals-kda.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-match-details-medals-kda.png.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-match-details-medals-kda.png"
+          alt="Valorant Tracker Match Details"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="screenshots/valorant-tracker-all-player-basic-stats.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-all-player-basic-stats.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-all-player-basic-stats.png"
+        alt="Detailed Match Analysis Valorant Tracker"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Valorant Coach – Your AI-Powered Valorant Assistant
 
