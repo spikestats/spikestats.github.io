@@ -21,19 +21,6 @@ Spike Stats is a <a href="https://playvalorant.com/" target="_blank">Valorant</a
         decoding="async">
     </picture>
   </a>
-  <a href="screenshots/spike-stats-graph-stat-options.png" target="_blank">
-    <picture>
-      <source srcset="/screenshots/spike-stats-graph-stat-options.webp" type="image/webp">
-      <img
-        src="/screenshots/spike-stats-graph-stat-options.png"
-        alt="Valorant Tracker Performance Graph 2"
-        width="822"
-        height="1647"
-        style="width: 49%; height: auto;"
-        loading="lazy"
-        decoding="async">
-    </picture>
-  </a>
 </p>
 
 <p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
@@ -56,6 +43,19 @@ Spike Stats helps Valorant players track their profile, match history, and game 
           loading="lazy"
           decoding="async">
       </picture>
+  </a>
+  <a href="screenshots/spike-stats-graph-stat-options.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/spike-stats-graph-stat-options.webp" type="image/webp">
+      <img
+        src="/screenshots/spike-stats-graph-stat-options.png"
+        alt="Valorant Tracker Performance Graph 2"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
   </a>
 </p>
 
