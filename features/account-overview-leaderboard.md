@@ -37,12 +37,34 @@ The **Overview** tab gives you a high-level summary of your performance across a
 
 You can also **export this overview as a custom screenshot** to share your performance snapshot with others.
 
-<a href="/screenshots/spike-stats-account-overview.png" target="_blank">
-  <img src="/screenshots/spike-stats-account-overview.png" alt="Spike Stats displaying performance overview for competitive matches" width="49%" height="49%">
-</a>
-<a href="/screenshots/valorant-tracker-account-overview.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-account-overview.png" alt="Valorant Tracker displaying performance overview for deathmatches" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/spike-stats-account-overview.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/spike-stats-account-overview.webp" type="image/webp">
+        <img
+          src="/screenshots/spike-stats-account-overview.png"
+          alt="Spike Stats displaying performance overview for competitive matches"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-account-overview.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-account-overview.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-account-overview.png"
+        alt="Valorant Tracker displaying performance overview for deathmatches"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
@@ -63,7 +85,21 @@ The **Leaderboards** feature lets you explore the **official Valorant leaderboar
 
 Whether you're climbing yourself or just keeping an eye on the top ranks, Spike Stats makes leaderboard tracking simple and accessible.
 
-<p align="center"><a href="/screenshots/valorant-tracker-official-leaderboard.png" target="_blank"><img src="/screenshots/valorant-tracker-official-leaderboard.png" alt="Official Valorant leaderboard showing top players in Spike Stats" width="49%" height="49%"/></a></p>
+<p>
+  <a href="/screenshots/valorant-tracker-official-leaderboard.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-official-leaderboard.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-official-leaderboard.png"
+          alt="Official Valorant leaderboard showing top players in Spike Stats"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+</p>
 
 ---
 
