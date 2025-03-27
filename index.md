@@ -66,7 +66,7 @@ Spike Stats gives you detailed analytics for every Valorant match you complete, 
 <p>
   <a href="/screenshots/valorant-tracker-match-details-medals-kda.png" target="_blank">
     <picture>
-        <source srcset="/screenshots/valorant-tracker-match-details-medals-kda.png.webp" type="image/webp">
+        <source srcset="/screenshots/valorant-tracker-match-details-medals-kda.webp" type="image/webp">
         <img
           src="/screenshots/valorant-tracker-match-details-medals-kda.png"
           alt="Valorant Tracker Match Details"
@@ -96,12 +96,34 @@ Spike Stats gives you detailed analytics for every Valorant match you complete, 
 
 Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get custom gameplay recommendations, analyze your stats deeply, and elevate your skills effectively. [Get personalized insights from the AI Valorant Coach →](/features/valorant-coach)
 
-<a href="screenshots/spike-stats-valorant-coach-standalone-1.png" target="_blank">
-  <img src="screenshots/spike-stats-valorant-coach-standalone-1.png" alt="Valorant Coach AI Analysis" width="49%" height="49%">
-</a>
-<a href="screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
-  <img src="screenshots/spike-stats-valorant-coach-standalone-2.png" alt="AI Valorant Coach Tips" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/spike-stats-valorant-coach-standalone-1.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/spike-stats-valorant-coach-standalone-1.webp" type="image/webp">
+        <img
+          src="/screenshots/spike-stats-valorant-coach-standalone-1.png"
+          alt="Valorant Coach AI Analysis"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/spike-stats-valorant-coach-standalone-2.webp" type="image/webp">
+      <img
+        src="/screenshots/spike-stats-valorant-coach-standalone-2.png"
+        alt="AI Valorant Coach Tips"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Detailed Agent & Weapon Stats
 
