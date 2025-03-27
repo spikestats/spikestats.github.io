@@ -31,12 +31,34 @@ Spike Stats displays your recent **Valorant matches** in an easy-to-swipe layout
 
 Tapping a match takes you to its detailed breakdown in the [Match Details](/features/match-analysis) page.
 
-<a href="/screenshots/valorant-tracker-graph-kast.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-graph-kast.png" alt="KAST performance graph from Spike Stats Valorant match history" width="49%" height="49%">
-</a>
-<a href="/screenshots/valorant-tracker-graph-kd.png" target="_blank">
-  <img src="/screenshots/valorant-tracker-graph-kd.png" alt="Spike Stats app showing Valorant K/D trend graph over time" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-graph-kast.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-graph-kast.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-graph-kast.png"
+          alt="KAST performance graph from Spike Stats Valorant match history"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-graph-kd.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-graph-kd.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-graph-kd.png"
+        alt="Spike Stats app showing Valorant K/D trend graph over time"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Performance Graphs That Respond
 
@@ -63,12 +85,34 @@ You can filter your graphs and matches by:
 
 This helps you see trends over time and evaluate your recent improvement.
 
-<a href="/screenshots/spike-stats-graph-stat-options.png" target="_blank">
-  <img src="/screenshots/spike-stats-graph-stat-options.png" alt="Performance graph with stat and time filters on Spike Stats match history screen" width="49%" height="49%">
-</a>
-<a href="/screenshots/spike-stats-graph-time-frame-options.png" target="_blank">
-  <img src="/screenshots/spike-stats-graph-time-frame-options.png" alt="Time range filter options and graph on match history screen in Spike Stats" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/spike-stats-graph-stat-options.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/spike-stats-graph-stat-options.webp" type="image/webp">
+        <img
+          src="/screenshots/spike-stats-graph-stat-options.png"
+          alt="Performance graph with stat and time filters on Spike Stats match history screen"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/spike-stats-graph-time-frame-options.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/spike-stats-graph-time-frame-options.webp" type="image/webp">
+      <img
+        src="/screenshots/spike-stats-graph-time-frame-options.png"
+        alt="Time range filter options and graph on match history screen in Spike Stats"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ---
 
