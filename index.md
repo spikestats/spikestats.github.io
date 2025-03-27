@@ -44,7 +44,7 @@ Spike Stats helps Valorant players track their profile, match history, and game 
           decoding="async">
       </picture>
   </a>
-  <a href="screenshots/spike-stats-graph-stat-options.png" target="_blank">
+  <a href="/screenshots/spike-stats-graph-stat-options.png" target="_blank">
     <picture>
       <source srcset="/screenshots/spike-stats-graph-stat-options.webp" type="image/webp">
       <img
@@ -77,7 +77,7 @@ Spike Stats gives you detailed analytics for every Valorant match you complete, 
           decoding="async">
       </picture>
   </a>
-  <a href="screenshots/valorant-tracker-all-player-basic-stats.png" target="_blank">
+  <a href="/screenshots/valorant-tracker-all-player-basic-stats.png" target="_blank">
     <picture>
       <source srcset="/screenshots/valorant-tracker-all-player-basic-stats.webp" type="image/webp">
       <img
@@ -110,7 +110,7 @@ Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get
           decoding="async">
       </picture>
   </a>
-  <a href="screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
+  <a href="/screenshots/spike-stats-valorant-coach-standalone-2.png" target="_blank">
     <picture>
       <source srcset="/screenshots/spike-stats-valorant-coach-standalone-2.webp" type="image/webp">
       <img
@@ -129,23 +129,67 @@ Review your Valorant matches using Spike Stats' personalized Valorant Coach. Get
 
 Spike Stats tracks your performance for every Valorant agent, displaying key metrics like win rate and KDA. Easily sort and filter agent stats by role. Additionally, the app records accuracy and effectiveness for all Valorant weapons, including kills, kills per round, damage per round, and shot accuracy, sortable and filterable by weapon type. [View your Agent & Weapon Stats →](/features/agent-weapon-stats)
 
-<a href="screenshots/valorant-tracker-agent-stats.png" target="_blank">
-  <img src="screenshots/valorant-tracker-agent-stats.png" alt="Valorant Agent Stats Tracker" width="49%" height="49%">
-</a>
-<a href="screenshots/valorant-tracker-weapon-stats.png" target="_blank">
-  <img src="screenshots/valorant-tracker-weapon-stats.png" alt="Weapon Stats Valorant Tracker" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-agent-stats.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-agent-stats.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-agent-stats.png"
+          alt="Valorant Agent Stats Tracker"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-weapon-stats.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-weapon-stats.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-weapon-stats.png"
+        alt="Weapon Stats Valorant Tracker"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Valorant Overview & Leaderboards
 
 Get a quick summary of your recent matches, overall win rates by mode and map, attacker/defender performance, and essential statistics like KDA and KAST. Spike Stats also features comprehensive leaderboards to compare your performance across various Valorant metrics. [Track your Valorant Overview & Leaderboards →](/features/account-overview-leaderboard)
 
-<a href="screenshots/spike-stats-account-overview.png" target="_blank">
-  <img src="screenshots/spike-stats-account-overview.png" alt="Valorant Tracker Overview" width="49%" height="49%">
-</a>
-<a href="screenshots/valorant-tracker-official-leaderboard.png" target="_blank">
-  <img src="screenshots/valorant-tracker-official-leaderboard.png" alt="Valorant Tracker Leaderboard" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/spike-stats-account-overview.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/spike-stats-account-overview.webp" type="image/webp">
+        <img
+          src="/screenshots/spike-stats-account-overview.png"
+          alt="Valorant Tracker Overview"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/valorant-tracker-official-leaderboard.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/valorant-tracker-official-leaderboard.webp" type="image/webp">
+      <img
+        src="/screenshots/valorant-tracker-official-leaderboard.png"
+        alt="Valorant Tracker Leaderboard"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Player Search & Multi-language Support
 
@@ -153,12 +197,34 @@ Search any Valorant player's stats quickly using their game name and tagline. [L
 
 Spike Stats makes Valorant tracking easy for players worldwide with full localization in 11 languages, including English, German, Spanish, French, Portuguese, Turkish, Thai, Vietnamese, Japanese, Korean, and Traditional Chinese.
 
-<a href="screenshots/valorant-tracker-player-search.png" target="_blank">
-  <img src="screenshots/valorant-tracker-player-search.png" alt="Player Search Feature Valorant Tracker" width="49%" height="49%">
-</a>
-<a href="screenshots/spike-stats-settings.png" target="_blank">
-  <img src="screenshots/spike-stats-settings.png" alt="Valorant Tracker Multilanguage Support" width="49%" height="49%">
-</a>
+<p>
+  <a href="/screenshots/valorant-tracker-player-search.png" target="_blank">
+    <picture>
+        <source srcset="/screenshots/valorant-tracker-player-search.webp" type="image/webp">
+        <img
+          src="/screenshots/valorant-tracker-player-search.png"
+          alt="Player Search Feature Valorant Tracker"
+          width="822"
+          height="1647"
+          style="width: 49%; height: auto;"
+          loading="lazy"
+          decoding="async">
+      </picture>
+  </a>
+  <a href="/screenshots/spike-stats-settings.png" target="_blank">
+    <picture>
+      <source srcset="/screenshots/spike-stats-settings.webp" type="image/webp">
+      <img
+        src="/screenshots/spike-stats-settings.png"
+        alt="Valorant Tracker Multilanguage Support"
+        width="822"
+        height="1647"
+        style="width: 49%; height: auto;"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  </a>
+</p>
 
 ## Multi-Platform Valorant Tracker
 
