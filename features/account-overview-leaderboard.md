@@ -85,7 +85,7 @@ The **Leaderboards** feature lets you explore the **official Valorant leaderboar
 
 Whether you're climbing yourself or just keeping an eye on the top ranks, Spike Stats makes leaderboard tracking simple and accessible.
 
-<p>
+<p align="center">
   <a href="/screenshots/valorant-tracker-official-leaderboard.png" target="_blank">
     <picture>
         <source srcset="/screenshots/valorant-tracker-official-leaderboard.webp" type="image/webp">
