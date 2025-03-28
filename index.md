@@ -14,7 +14,7 @@ Spike Stats is a <a href="https://playvalorant.com/" target="_blank">Valorant</a
     allowfullscreen title="Detailed Valorant Match Analysis – Spike Stats Valorant Tracker">
   </iframe>
 </div>
-<br>
+
 <p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
 </p><p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
 
