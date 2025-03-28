@@ -7,22 +7,14 @@ description: "Spike Stats is the ultimate Valorant Tracker app for iOS & Android
 
 Spike Stats is a <a href="https://playvalorant.com/" target="_blank">Valorant</a> Tracker app designed specifically for iOS and Android users, providing comprehensive analysis of Valorant player statistics in an easy-to-understand format.
 
-<p align="center">
-  <a href="/screenshots/spike-stats-sign-in-page.png" target="_blank">
-    <picture>
-      <source srcset="/screenshots/spike-stats-sign-in-page.webp" type="image/webp">
-      <img
-        src="/screenshots/spike-stats-sign-in-page.png"
-        alt="Sign In screen for Spike Stats Valorant Tracker app"
-        width="822"
-        height="1647"
-        style="width: 49%; height: auto;"
-        loading="lazy"
-        decoding="async">
-    </picture>
-  </a>
-</p>
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+  <iframe src="https://www.youtube.com/embed/Etn5PCcr2yE"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen title="Detailed Valorant Match Analysis – Spike Stats Valorant Tracker">
+  </iframe>
+</div>
+<br>
 <p align="center"><a href="https://apps.apple.com/us/app/spike-stats-for-valorant/id1541123839" target="_blank"><img src="images/apple_app_store_badge.png" alt="Download Valorant Tracker from Apple App Store" width="49%" height="50%"/></a>
 </p><p align="center"><a href="https://play.google.com/store/apps/details?id=crocusgames.com.spikestats" target="_blank"><img src="images/google-play-badge.png" alt="Download Valorant Tracker from Google Play" width="50%" height="50%"/></a></p>
 
