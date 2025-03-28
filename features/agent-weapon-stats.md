@@ -7,6 +7,14 @@ description: "Analyze your Valorant stats by agent and weapon with Spike Stats. 
 
 Spike Stats offers detailed performance tracking for both **agents** and **weapons**, helping you understand your strengths, optimize your playstyle, and improve over time. All stats are segmented by game mode and can be easily sorted, filtered, and shared.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+  <iframe src="https://www.youtube.com/embed/7hRoMxMDx4A"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen title="Analyze Your Valorant Agent & Weapon Stats – Spike Stats Valorant Tracker">
+  </iframe>
+</div>
+<br>
 ## Agent Stats
 
 Spike Stats tracks your match performance across all agents you've played — broken down by game mode for clarity and depth.
