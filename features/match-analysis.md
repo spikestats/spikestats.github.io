@@ -15,7 +15,6 @@ Spike Stats offers an in-depth breakdown of every Valorant match you play, givin
   </iframe>
 </div>
 <br>
-
 ## Match Info & Overview
 
 - View the **date and duration** of the match.
