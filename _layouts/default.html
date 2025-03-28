@@ -102,9 +102,13 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <div style="text-align: center"><img src="/images/spike_stats_logo.png" alt="Spike Stats Logo" width="50" height="50"></div>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <a href="https://spikestatsapp.com" style="text-decoration: none; color: inherit;">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <div style="text-align: center">
+              <img src="/images/spike_stats_logo.png" alt="Spike Stats Logo" width="50" height="50">
+            </div>
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+          </a>
           <hr>
         </div>
 
