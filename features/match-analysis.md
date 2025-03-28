@@ -7,6 +7,15 @@ description: "Explore every detail of your Valorant matches with Spike Stats. An
 
 Spike Stats offers an in-depth breakdown of every Valorant match you play, giving you the full picture of your performance — from round stats to weapon breakdowns and duels.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+  <iframe src="https://www.youtube.com/embed/Etn5PCcr2yE"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen title="Detailed Valorant Match Analysis – Spike Stats Valorant Tracker">
+  </iframe>
+</div>
+<br>
+
 ## Match Info & Overview
 
 - View the **date and duration** of the match.
