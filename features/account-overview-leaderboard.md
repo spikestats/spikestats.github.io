@@ -7,6 +7,14 @@ description: "Track your overall Valorant performance with Spike Stats. See win 
 
 Spike Stats gives you a clear overview of your Valorant performance and offers access to official global leaderboards. Whether you're aiming to track your own improvement or compare yourself to the best, this feature has you covered.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+  <iframe src="https://www.youtube.com/embed/Hp2zfmrDb1s"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen title="Account Performance Overview & Leaderboards – Spike Stats Valorant Tracker">
+  </iframe>
+</div>
+<br>
 ## Overview – Performance Summary by Game Mode
 
 The **Overview** tab gives you a high-level summary of your performance across all Valorant game modes.
