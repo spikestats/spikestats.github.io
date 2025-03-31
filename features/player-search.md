@@ -7,6 +7,14 @@ description: "Search for Valorant players using their game name and tagline. Vie
 
 Spike Stats makes it easy to look up **Valorant player’s profile and view their stats in seconds**, as long as their profile is public.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+  <iframe src="https://www.youtube.com/embed/4RtwW6MhJ5g"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen title="Valorant Player Search – Spike Stats Valorant Tracker">
+  </iframe>
+</div>
+<br>
 ## Find Valorant Players by Riot ID
 
 To search for a player, simply enter:
