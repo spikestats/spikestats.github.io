@@ -25,7 +25,7 @@ If Spike Stats doesn’t automatically open:
             if (code) {
                 setTimeout(function() {
                     window.location.replace('spikestats://oauth-login?code=' + code);
-                }, 300); // Delay helps ensure the page is stable before redirecting
+                }, 1000); // Delay helps ensure the page is stable before redirecting
             } else {
                 console.error('Code not found in URL');
             }
